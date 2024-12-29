@@ -7377,6 +7377,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 23:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-29 23:25:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
     "criteria": {
       "has_moss_block": "2024-12-29 22:45:06 +0000"
@@ -7398,6 +7410,12 @@
   "ecologics:recipes/ecologics/surface_moss": {
     "criteria": {
       "has_moss_block": "2024-12-29 22:45:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2024-12-29 23:25:13 +0000"
     },
     "done": true
   },
