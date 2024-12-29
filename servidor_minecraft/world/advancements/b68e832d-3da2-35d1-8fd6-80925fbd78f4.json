@@ -580,7 +580,8 @@
       "pumpkin_patch": "2024-12-26 22:51:04 +0000",
       "grassland": "2024-12-23 22:53:32 +0000",
       "snowy_fir_clearing": "2024-12-23 22:06:47 +0000",
-      "glowing_grotto": "2024-12-24 13:46:52 +0000"
+      "glowing_grotto": "2024-12-24 13:46:52 +0000",
+      "gravel_beach": "2024-12-29 22:59:34 +0000"
     },
     "done": false
   },
@@ -5109,9 +5110,129 @@
     },
     "done": false
   },
+  "create_dd:recipes/create_dd.palettes/layered_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/building_blocks/netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2024-12-29 22:43:17 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
     },
     "done": true
   },
