@@ -2580,3 +2580,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [29Dec2024 23:31:36.583] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/420148, l='ServerLevel[world]', x=1281.50, y=79.00, z=1899.50]
 [29Dec2024 23:33:11.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1117, y=31, z=1920} BlockPos{x=1118, y=32, z=1919}
 [29Dec2024 23:33:11.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1117, y=31, z=1920} BlockPos{x=1118, y=32, z=1919}
+[29Dec2024 23:34:04.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 drowned
+[29Dec2024 23:34:04.616] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[29Dec2024 23:34:06.003] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
