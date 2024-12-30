@@ -7377,6 +7377,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-30 00:30:36 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_shortsword": "2024-12-30 00:27:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-29 23:25:35 +0000"
@@ -7412,6 +7424,12 @@
       "has_moss_block": "2024-12-29 22:45:06 +0000"
     },
     "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_short": "2024-12-30 00:27:13 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
