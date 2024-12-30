@@ -2040,3 +2040,29 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [30Dec2024 22:28:29.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [The Cutest Predator]
 [30Dec2024 22:31:27.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
 [30Dec2024 22:35:54.813] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/149076, l='ServerLevel[world]', x=912.50, y=76.00, z=2090.50]
+[30Dec2024 22:42:16.916] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/160899, l='ServerLevel[world]', x=913.50, y=76.00, z=2089.50]
+[30Dec2024 22:43:05.987] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=917, y=-36, z=2328}
+[30Dec2024 22:43:54.441] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=909, y=-20, z=2339}
+[30Dec2024 22:45:09.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=900, y=-1, z=2371}
+[30Dec2024 22:45:38.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 drowned
+[30Dec2024 22:45:39.001] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[30Dec2024 22:45:39.018] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 22:45:40.442] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 22:46:50.346] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=881, y=-8, z=2381}
+[30Dec2024 22:46:50.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[30Dec2024 22:48:29.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Enchanter]
+[30Dec2024 22:51:00.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[30Dec2024 22:51:00.663] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 22:51:02.034] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 22:51:59.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[30Dec2024 22:51:59.937] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 22:52:01.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by ZingyMonk719952
+[30Dec2024 22:52:01.255] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 22:52:01.426] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 22:52:04.052] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 22:52:16.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[30Dec2024 22:52:16.212] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 22:52:17.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by The Old Miner
+[30Dec2024 22:52:17.331] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 22:52:17.418] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 22:52:19.045] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
