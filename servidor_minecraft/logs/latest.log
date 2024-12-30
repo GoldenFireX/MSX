@@ -1,2 +1,4 @@
 [30Dec2024 00:02:17.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/434924, l='ServerLevel[world]', x=922.50, y=97.00, z=1643.50] died, message: 'Unemployed was killed'
 [30Dec2024 00:03:48.735] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/435244, l='ServerLevel[world]', x=923.43, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
+[30Dec2024 00:05:08.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/435519, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
+[30Dec2024 00:05:57.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Second Age]
