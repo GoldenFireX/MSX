@@ -2116,3 +2116,16 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [30Dec2024 23:11:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Diamond Termite
 [30Dec2024 23:11:43.781] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [30Dec2024 23:11:45.234] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:12:59.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Junior Summoner]
+[30Dec2024 23:13:27.300] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[30Dec2024 23:13:27.310] [Thread-228/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[30Dec2024 23:13:27.310] [Thread-228/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[30Dec2024 23:13:27.310] [Thread-228/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[30Dec2024 23:13:27.311] [Thread-228/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[30Dec2024 23:13:27.311] [Thread-228/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[30Dec2024 23:13:27.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> te muteaste?
+[30Dec2024 23:17:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Silverqueen
+[30Dec2024 23:17:08.556] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:17:10.390] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:19:46.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[30Dec2024 23:19:46.209] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1145, y=30, z=1159}
