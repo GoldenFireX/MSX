@@ -2003,3 +2003,16 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [30Dec2024 21:45:24.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [No shelf organization]
 [30Dec2024 21:45:51.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13254, l='ServerLevel[world]', x=926.48, y=-256.00, z=1661.30] died, message: 'Unemployed was killed'
 [30Dec2024 21:47:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Cover Me with Diamonds]
+[30Dec2024 21:57:36.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19968, l='ServerLevel[world]', x=928.63, y=-256.00, z=1650.13] died, message: 'Unemployed was killed'
+[30Dec2024 21:57:47.419] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 21:57:50.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[30Dec2024 21:58:09.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3961ms or 79 ticks behind
+[30Dec2024 21:58:16.774] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23720, l='ServerLevel[world]', x=1465.50, y=73.00, z=1837.50]
+[30Dec2024 21:58:18.464] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23756, l='ServerLevel[world]', x=1495.50, y=72.00, z=1831.50]
+[30Dec2024 21:58:37.356] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[30Dec2024 21:58:37.357] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[30Dec2024 21:58:37.365] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[30Dec2024 21:58:55.044] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting immersive_aircraft/network/c2s/CommandMessage$Key
+[30Dec2024 21:58:58.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[30Dec2024 21:59:00.386] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 21:59:57.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25349, l='ServerLevel[world]', x=818.54, y=-256.00, z=1641.21] died, message: 'Unemployed was killed'
