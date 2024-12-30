@@ -1745,3 +1745,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 ]
 [30Dec2024 01:44:02.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
 [30Dec2024 01:44:02.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[30Dec2024 01:53:04.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/532193, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
