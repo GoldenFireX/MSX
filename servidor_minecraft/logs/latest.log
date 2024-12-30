@@ -587,3 +587,19 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [30Dec2024 00:44:52.680] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1639, y=8, z=2209}
 [30Dec2024 00:45:00.274] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1554, y=-19, z=2261}
 [30Dec2024 00:45:01.979] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1653, y=-45, z=2169}
+[30Dec2024 00:45:13.529] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1687, y=25, z=2170}
+[30Dec2024 00:45:38.522] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1740, y=22, z=2102}
+[30Dec2024 00:45:39.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1566, y=115, z=2019} BlockPos{x=1567, y=114, z=2018}
+[30Dec2024 00:45:39.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1566, y=115, z=2019} BlockPos{x=1567, y=114, z=2018}
+[30Dec2024 00:45:39.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1566, y=115, z=2017} BlockPos{x=1567, y=114, z=2018}
+[30Dec2024 00:45:46.557] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1768, y=39, z=2191}
+[30Dec2024 00:46:23.680] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1846, y=-1, z=2096}
+[30Dec2024 00:48:12.881] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1898, y=13, z=1590}
+[30Dec2024 00:48:24.307] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1996, y=-8, z=1654}
+[30Dec2024 00:54:06.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 fell off a ladder
+[30Dec2024 00:54:06.558] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 00:54:07.803] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 00:54:21.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was shot by Missionary
+[30Dec2024 00:54:21.660] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 00:54:23.973] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 00:54:27.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/492563, l='ServerLevel[world]', x=924.02, y=-256.00, z=1651.08] died, message: 'Unemployed was killed'
