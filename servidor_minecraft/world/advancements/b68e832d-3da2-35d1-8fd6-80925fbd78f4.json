@@ -363,6 +363,7 @@
       "minecraft:cold_ocean": "2024-12-23 21:48:10 +0000",
       "minecraft:lush_caves": "2024-12-24 13:50:59 +0000",
       "minecraft:frozen_ocean": "2024-12-23 22:09:14 +0000",
+      "minecraft:ocean": "2024-12-30 01:13:14 +0000",
       "minecraft:snowy_beach": "2024-12-23 22:06:51 +0000",
       "minecraft:windswept_savanna": "2024-12-25 18:17:06 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-23 21:38:52 +0000",
@@ -577,7 +578,9 @@
       "field": "2024-12-23 22:23:37 +0000",
       "overgrown_greens": "2024-12-30 00:42:00 +0000",
       "coniferous_forest": "2024-12-23 21:38:44 +0000",
+      "dune_beach": "2024-12-30 01:14:25 +0000",
       "seasonal_forest": "2024-12-23 21:54:16 +0000",
+      "lavender_field": "2024-12-30 01:14:31 +0000",
       "fir_clearing": "2024-12-23 22:06:04 +0000",
       "pumpkin_patch": "2024-12-26 22:51:04 +0000",
       "grassland": "2024-12-23 22:53:32 +0000",
@@ -5114,6 +5117,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-30 01:15:46 +0000"
+    },
+    "done": false
+  },
   "create_dd:recipes/create_dd.palettes/layered_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2024-12-29 22:52:32 +0000"
@@ -5154,6 +5163,12 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_wildflower": "2024-12-30 00:45:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-30 01:13:47 +0000"
     },
     "done": true
   },
@@ -5286,6 +5301,12 @@
   "alexsmobs:alexsmobs/rocky_shell": {
     "criteria": {
       "soul_heart": "2024-12-29 23:25:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-30 01:13:53 +0000"
     },
     "done": true
   },
@@ -5577,6 +5598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-30 01:13:53 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2024-12-29 23:25:30 +0000"
@@ -5595,6 +5622,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-30 01:13:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-29 23:19:32 +0000"
@@ -5604,6 +5637,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-29 23:19:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-30 01:13:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-30 01:13:53 +0000"
     },
     "done": true
   },
@@ -5622,6 +5667,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-29 23:19:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-30 01:13:53 +0000"
     },
     "done": true
   },
@@ -5658,6 +5709,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-29 23:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-30 01:13:53 +0000"
     },
     "done": true
   },
