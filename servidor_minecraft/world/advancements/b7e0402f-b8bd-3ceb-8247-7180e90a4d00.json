@@ -7378,6 +7378,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2024-12-30 00:55:48 +0000"
+    },
+    "done": false
+  },
   "morebows:recipes/iron_bow": {
     "criteria": {
       "has_bow": "2024-12-30 00:33:37 +0000"
