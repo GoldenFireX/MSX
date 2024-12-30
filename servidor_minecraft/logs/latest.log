@@ -2545,3 +2545,48 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 ]
 [30Dec2024 23:27:23.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
 [30Dec2024 23:27:23.865] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[30Dec2024 23:37:04.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was killed by magic
+[30Dec2024 23:37:04.504] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:37:21.299] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:37:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by The Old Miner
+[30Dec2024 23:37:33.416] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:37:35.967] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:37:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by The Old Miner
+[30Dec2024 23:37:41.624] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:37:43.680] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:37:44.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was killed by magic
+[30Dec2024 23:37:44.142] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:40:26.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Cave Centipede
+[30Dec2024 23:40:26.742] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:40:29.263] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:41:14.526] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:41:44.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Cave Centipede
+[30Dec2024 23:41:44.429] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:41:46.244] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:42:08.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[30Dec2024 23:42:08.121] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:42:09.690] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:42:12.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by The Old Miner
+[30Dec2024 23:42:12.178] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:42:13.933] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:42:16.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/239172, l='ServerLevel[world]', x=924.48, y=-256.00, z=1651.13] died, message: 'Unemployed was killed'
+[30Dec2024 23:42:17.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[30Dec2024 23:42:17.370] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:42:19.891] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:42:26.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[30Dec2024 23:42:26.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Old Miner
+[30Dec2024 23:42:26.546] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:42:28.044] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:42:41.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by The Old Miner
+[30Dec2024 23:42:41.649] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:42:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[30Dec2024 23:42:43.850] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:42:45.708] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:42:54.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[30Dec2024 23:42:54.255] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:42:55.698] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:43:01.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[30Dec2024 23:43:01.517] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:43:03.226] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:43:20.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
+[30Dec2024 23:43:20.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
