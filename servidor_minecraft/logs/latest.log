@@ -1973,3 +1973,33 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
   "<partial numeric data>",
   "[59, -125, -115, 91, 121, -126, 37, -85, 111, -12, -50]"
 ]
+[30Dec2024 21:30:04.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[30Dec2024 21:30:50.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.91.56.198:51635] logged in with entity id 5202 at (920.67056487385, 97.0, 1650.9698464320384)
+[30Dec2024 21:30:50.641] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[30Dec2024 21:30:50.641] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[30Dec2024 21:30:50.642] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[30Dec2024 21:30:50.643] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[30Dec2024 21:30:50.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[30Dec2024 21:30:50.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[30Dec2024 21:30:50.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[30Dec2024 21:30:50.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[30Dec2024 21:30:51.063] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[30Dec2024 21:30:51.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[30Dec2024 21:30:53.017] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 21:30:53.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[30Dec2024 21:31:57.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Creative Mode]
+[30Dec2024 21:33:05.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Survival Mode]
+[30Dec2024 21:34:09.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[30Dec2024 21:34:36.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[30Dec2024 21:36:18.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[30Dec2024 21:37:16.787] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[30Dec2024 21:37:16.801] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[30Dec2024 21:37:17.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[30Dec2024 21:37:18.736] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[30Dec2024 21:37:18.740] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[30Dec2024 21:37:18.743] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[30Dec2024 21:38:54.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9900, l='ServerLevel[world]', x=911.55, y=-256.00, z=1644.39] died, message: 'Unemployed was killed'
+[30Dec2024 21:39:30.779] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[30Dec2024 21:45:24.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [No shelf organization]
+[30Dec2024 21:45:51.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13254, l='ServerLevel[world]', x=926.48, y=-256.00, z=1661.30] died, message: 'Unemployed was killed'
+[30Dec2024 21:47:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Cover Me with Diamonds]

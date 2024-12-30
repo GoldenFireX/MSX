@@ -7636,5 +7636,23 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-30 21:47:04 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/diamond_backtank": {
+    "criteria": {
+      "has_backtank": "2024-12-30 21:47:04 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/bookstack": {
+    "criteria": {
+      "obtain": "2024-12-30 21:45:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
