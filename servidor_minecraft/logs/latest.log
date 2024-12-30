@@ -2066,3 +2066,53 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [30Dec2024 22:52:17.331] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
 [30Dec2024 22:52:17.418] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [30Dec2024 22:52:19.045] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 22:52:35.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by ZingyMonk719952
+[30Dec2024 22:52:35.869] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 22:52:37.723] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 22:52:41.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was burnt to a crisp whilst fighting The Old Miner
+[30Dec2024 22:52:41.388] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 22:52:42.751] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 22:57:14.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Dread Hound
+[30Dec2024 22:57:14.571] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 22:57:14.589] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[30Dec2024 22:57:16.497] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 22:57:27.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved wrongly!
+[30Dec2024 22:58:00.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved wrongly!
+[30Dec2024 22:58:00.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 suffocated in a wall
+[30Dec2024 22:58:00.724] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 22:58:03.132] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 22:58:34.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/216520, l='ServerLevel[world]', x=923.50, y=97.00, z=1644.50] died, message: 'Unemployed was killed'
+[30Dec2024 22:58:53.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/216882, l='ServerLevel[world]', x=818.54, y=-256.00, z=1641.21] died, message: 'Unemployed was killed'
+[30Dec2024 22:58:54.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[30Dec2024 22:59:10.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 fell from a high place
+[30Dec2024 22:59:10.039] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 22:59:11.399] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:00:19.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: The difficulty has been set to Hard]
+[30Dec2024 23:00:27.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/217684, l='ServerLevel[world]', x=923.25, y=-256.00, z=1661.20] died, message: 'Unemployed was killed'
+[30Dec2024 23:01:13.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/217983, l='ServerLevel[world]', x=910.65, y=-256.00, z=1646.09] died, message: 'Unemployed was killed'
+[30Dec2024 23:01:54.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Food Fight]
+[30Dec2024 23:02:13.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/218324, l='ServerLevel[world]', x=914.47, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[30Dec2024 23:04:41.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/218961, l='ServerLevel[world]', x=922.50, y=-256.00, z=1659.52] died, message: 'Unemployed was killed'
+[30Dec2024 23:05:07.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Mutant Skeleton
+[30Dec2024 23:05:07.794] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:05:09.245] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:05:23.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was blown up by Intruder
+[30Dec2024 23:05:23.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/221104, l='ServerLevel[world]', x=959.96, y=-33.00, z=1671.11] died: Intruder was blown up by Intruder
+[30Dec2024 23:05:23.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved wrongly!
+[30Dec2024 23:05:23.388] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:05:25.320] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:05:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Mutant Skeleton
+[30Dec2024 23:05:46.507] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:05:47.885] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:06:01.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was shot by Mutant Skeleton
+[30Dec2024 23:06:01.141] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:06:02.956] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:06:16.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Mutant Skeleton
+[30Dec2024 23:06:16.635] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:06:18.227] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:10:50.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 burned to death
+[30Dec2024 23:10:50.426] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[30Dec2024 23:10:52.224] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:11:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Diamond Termite
+[30Dec2024 23:11:43.781] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:11:45.234] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.

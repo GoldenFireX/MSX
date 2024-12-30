@@ -6000,6 +6000,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2024-12-30 23:01:54 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/dragon_staff": {
     "criteria": {
       "has_item": "2024-12-30 22:01:40 +0000"
