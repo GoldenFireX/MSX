@@ -2590,3 +2590,28 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [30Dec2024 23:43:03.226] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [30Dec2024 23:43:20.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
 [30Dec2024 23:43:20.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[30Dec2024 23:44:11.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[30Dec2024 23:44:11.554] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:44:13.380] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:44:40.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[30Dec2024 23:44:40.639] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:44:41.931] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:45:31.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.147.73.159:35635] logged in with entity id 246994 at (971.588059595845, -24.0, 1410.5539611391043)
+[30Dec2024 23:45:31.486] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[30Dec2024 23:45:31.491] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[30Dec2024 23:45:31.495] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[30Dec2024 23:45:31.497] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[30Dec2024 23:45:31.504] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[30Dec2024 23:45:31.508] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[30Dec2024 23:45:31.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[30Dec2024 23:45:31.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[30Dec2024 23:45:31.682] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[30Dec2024 23:45:35.378] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:46:12.920] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[30Dec2024 23:46:22.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/247862, l='ServerLevel[world]', x=970.32, y=-24.00, z=1341.86] died: Intruder was slain by amigobuho360
+[30Dec2024 23:46:23.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was blown up by Intruder
+[30Dec2024 23:46:23.768] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:46:25.204] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 23:47:49.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was blown up by Intruder
+[30Dec2024 23:47:49.746] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 23:47:51.454] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
