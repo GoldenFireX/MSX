@@ -353,6 +353,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-30 21:57:50 +0000",
       "minecraft:frozen_river": "2024-12-23 22:08:12 +0000",
       "minecraft:birch_forest": "2024-12-25 18:16:03 +0000",
       "minecraft:windswept_hills": "2024-12-30 00:33:48 +0000",
@@ -361,6 +362,7 @@
       "minecraft:river": "2024-12-23 21:58:52 +0000",
       "minecraft:snowy_taiga": "2024-12-23 22:09:45 +0000",
       "minecraft:cold_ocean": "2024-12-23 21:48:10 +0000",
+      "minecraft:forest": "2024-12-30 21:58:11 +0000",
       "minecraft:lush_caves": "2024-12-24 13:50:59 +0000",
       "minecraft:frozen_ocean": "2024-12-23 22:09:14 +0000",
       "minecraft:windswept_forest": "2024-12-30 01:41:52 +0000",
@@ -5884,6 +5886,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-30 22:01:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:53:12 +0000"
@@ -5926,6 +5934,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-30 22:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-30 22:01:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:53:12 +0000"
@@ -5935,6 +5955,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-30 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-30 22:01:40 +0000"
     },
     "done": true
   },
@@ -6013,6 +6039,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-30 22:01:40 +0000"
     },
     "done": true
   },
