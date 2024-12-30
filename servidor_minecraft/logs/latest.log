@@ -508,3 +508,82 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [30Dec2024 00:27:13.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [A... Fake?]
 [30Dec2024 00:34:38.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
 [30Dec2024 00:34:38.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3751ms or 75 ticks behind
+[30Dec2024 00:35:10.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [R.I.P. Yondu]
+[30Dec2024 00:37:23.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[30Dec2024 00:37:30.681] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/454277, l='ServerLevel[world]', x=1099.50, y=72.00, z=2067.50]
+[30Dec2024 00:37:35.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Lifestealer
+[30Dec2024 00:37:35.734] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 00:37:37.201] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 00:37:42.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/454998, l='ServerLevel[world]', x=818.54, y=-256.00, z=1641.21] died, message: 'Unemployed was killed'
+[30Dec2024 00:37:50.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Horror Under the Mantle]
+[30Dec2024 00:38:27.231] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/464891, l='ServerLevel[world]', x=1107.50, y=70.00, z=2081.50]
+[30Dec2024 00:38:27.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [We do a little trolling...]
+[30Dec2024 00:38:48.883] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/468906, l='ServerLevel[world]', x=1285.50, y=75.00, z=1916.50]
+[30Dec2024 00:38:52.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 withered away
+[30Dec2024 00:38:52.112] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[30Dec2024 00:38:53.632] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[30Dec2024 00:39:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Fighting Nightmares]
+[30Dec2024 00:39:29.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/479538, l='ServerLevel[world]', x=1105.50, y=72.00, z=2068.50]
+[30Dec2024 00:39:52.902] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1395, y=-48, z=2132}
+[30Dec2024 00:39:53.482] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/483652, l='ServerLevel[world]', x=1107.50, y=70.00, z=2083.50]
+[30Dec2024 00:40:30.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Voluntary Exile]
+[30Dec2024 00:40:30.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Dark Creator]
+[30Dec2024 00:40:39.635] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/483941, l='ServerLevel[world]', x=1291.50, y=74.00, z=1915.50]
+[30Dec2024 00:41:12.832] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/484169, l='ServerLevel[world]', x=1210.50, y=77.00, z=1937.50]
+[30Dec2024 00:41:13.332] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/484172, l='ServerLevel[world]', x=1224.50, y=73.00, z=2038.50]
+[30Dec2024 00:41:15.050] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[30Dec2024 00:41:22.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/484232, l='ServerLevel[world]', x=1283.50, y=75.00, z=1917.50]
+[30Dec2024 00:41:40.192] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/484574, l='ServerLevel[world]', x=1206.50, y=73.00, z=2019.50]
+[30Dec2024 00:41:43.483] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/484705, l='ServerLevel[world]', x=1239.50, y=73.00, z=2032.50]
+[30Dec2024 00:41:52.282] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/484887, l='ServerLevel[world]', x=1239.50, y=73.00, z=2033.50]
+[30Dec2024 00:41:58.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1282, y=87, z=1989} BlockPos{x=1284, y=86, z=1989}
+[30Dec2024 00:42:00.057] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1470, y=-32, z=2141}
+[30Dec2024 00:42:05.282] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/484988, l='ServerLevel[world]', x=1291.50, y=74.00, z=1916.50]
+[30Dec2024 00:42:07.881] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/485006, l='ServerLevel[world]', x=1285.50, y=75.00, z=1918.50]
+[30Dec2024 00:42:14.631] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/485017, l='ServerLevel[world]', x=1281.50, y=76.00, z=1913.50]
+[30Dec2024 00:42:15.132] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/485020, l='ServerLevel[world]', x=1280.50, y=76.00, z=1911.50]
+[30Dec2024 00:42:23.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1280, y=83, z=2003} BlockPos{x=1279, y=83, z=2005}
+[30Dec2024 00:42:25.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/485062, l='ServerLevel[world]', x=1297.50, y=75.00, z=1934.50]
+[30Dec2024 00:42:32.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1276, y=77, z=2019} BlockPos{x=1276, y=75, z=2019}
+[30Dec2024 00:42:32.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1276, y=77, z=2019} BlockPos{x=1276, y=75, z=2019}
+[30Dec2024 00:42:41.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1281, y=75, z=2026} BlockPos{x=1283, y=75, z=2024}
+[30Dec2024 00:42:41.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1281, y=75, z=2026} BlockPos{x=1283, y=75, z=2024}
+[30Dec2024 00:42:41.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1281, y=75, z=2026} BlockPos{x=1283, y=75, z=2024}
+[30Dec2024 00:42:43.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1282, y=79, z=2020} BlockPos{x=1283, y=77, z=2021}
+[30Dec2024 00:42:43.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1282, y=79, z=2020} BlockPos{x=1283, y=77, z=2021}
+[30Dec2024 00:42:45.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1287, y=84, z=2018} BlockPos{x=1286, y=82, z=2018}
+[30Dec2024 00:42:45.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1287, y=84, z=2018} BlockPos{x=1286, y=82, z=2018}
+[30Dec2024 00:42:45.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1287, y=84, z=2018} BlockPos{x=1286, y=82, z=2018}
+[30Dec2024 00:42:50.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1292, y=88, z=2014} BlockPos{x=1293, y=87, z=2014}
+[30Dec2024 00:42:51.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1291, y=90, z=2011} BlockPos{x=1291, y=89, z=2010}
+[30Dec2024 00:42:51.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1291, y=90, z=2011} BlockPos{x=1291, y=89, z=2010}
+[30Dec2024 00:42:52.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1290, y=90, z=2009} BlockPos{x=1290, y=89, z=2008}
+[30Dec2024 00:42:52.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1290, y=90, z=2009} BlockPos{x=1290, y=89, z=2008}
+[30Dec2024 00:43:09.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1312, y=98, z=2003} BlockPos{x=1310, y=95, z=2003}
+[30Dec2024 00:43:20.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1323, y=117, z=2015} BlockPos{x=1324, y=116, z=2014}
+[30Dec2024 00:43:23.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1326, y=121, z=2016} BlockPos{x=1327, y=120, z=2016}
+[30Dec2024 00:43:23.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1326, y=122, z=2017} BlockPos{x=1328, y=122, z=2017}
+[30Dec2024 00:43:24.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1326, y=122, z=2017} BlockPos{x=1328, y=122, z=2017}
+[30Dec2024 00:43:25.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1329, y=125, z=2017} BlockPos{x=1329, y=124, z=2018}
+[30Dec2024 00:43:25.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1328, y=127, z=2021} BlockPos{x=1328, y=125, z=2020}
+[30Dec2024 00:43:26.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1329, y=126, z=2019} BlockPos{x=1329, y=126, z=2021}
+[30Dec2024 00:43:26.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1329, y=126, z=2019} BlockPos{x=1329, y=126, z=2021}
+[30Dec2024 00:43:28.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1332, y=133, z=2023} BlockPos{x=1332, y=131, z=2023}
+[30Dec2024 00:43:29.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1333, y=135, z=2024} BlockPos{x=1333, y=134, z=2025}
+[30Dec2024 00:43:29.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1333, y=135, z=2024} BlockPos{x=1333, y=134, z=2025}
+[30Dec2024 00:43:31.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1336, y=137, z=2024} BlockPos{x=1336, y=135, z=2023}
+[30Dec2024 00:43:31.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1337, y=137, z=2025} BlockPos{x=1336, y=135, z=2023}
+[30Dec2024 00:43:31.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Mine? Mine? Mine?]
+[30Dec2024 00:43:32.982] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/485477, l='ServerLevel[world]', x=1222.50, y=73.00, z=2039.50]
+[30Dec2024 00:43:38.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1342, y=141, z=2028} BlockPos{x=1342, y=139, z=2028}
+[30Dec2024 00:43:49.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1357, y=153, z=2035} BlockPos{x=1358, y=152, z=2035}
+[30Dec2024 00:43:49.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1357, y=153, z=2035} BlockPos{x=1358, y=152, z=2035}
+[30Dec2024 00:43:50.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1359, y=154, z=2037} BlockPos{x=1361, y=153, z=2038}
+[30Dec2024 00:43:50.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1359, y=154, z=2037} BlockPos{x=1361, y=153, z=2038}
+[30Dec2024 00:43:50.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1361, y=155, z=2038} BlockPos{x=1362, y=154, z=2038}
+[30Dec2024 00:43:51.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1362, y=154, z=2039} BlockPos{x=1362, y=155, z=2038}
+[30Dec2024 00:44:09.180] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1613, y=-3, z=2156}
+[30Dec2024 00:44:10.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1607, y=-11, z=2131}
+[30Dec2024 00:44:52.680] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1639, y=8, z=2209}
+[30Dec2024 00:45:00.274] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1554, y=-19, z=2261}
+[30Dec2024 00:45:01.979] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1653, y=-45, z=2169}
