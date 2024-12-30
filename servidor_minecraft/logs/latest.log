@@ -2030,3 +2030,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [30Dec2024 22:07:27.446] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36455, l='ServerLevel[world]', x=1462.50, y=74.00, z=1849.50]
 [30Dec2024 22:08:41.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
 [30Dec2024 22:08:58.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [The Parrots and the Bats]
+[30Dec2024 22:17:19.462] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45220, l='ServerLevel[world]', x=923.50, y=97.00, z=1644.50] died, message: 'Unemployed was killed'
+[30Dec2024 22:17:54.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Deceived Hopes]
+[30Dec2024 22:21:14.129] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[30Dec2024 22:21:27.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55296, l='ServerLevel[world]', x=818.54, y=-256.00, z=1641.21] died, message: 'Unemployed was killed'
