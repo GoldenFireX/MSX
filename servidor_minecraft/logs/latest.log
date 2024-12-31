@@ -14,3 +14,18 @@
 [31Dec2024 00:02:52.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was burnt to a crisp whilst fighting Forge Sentry
 [31Dec2024 00:02:52.550] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
 [31Dec2024 00:02:54.655] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[31Dec2024 00:04:35.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/267877, l='ServerLevel[world]', x=959.74, y=-16.00, z=1108.63] died: Foundry Guardian was shot by amigobuho360
+[31Dec2024 00:04:36.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was fireballed by Foundry Guardian
+[31Dec2024 00:04:36.979] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[31Dec2024 00:04:38.223] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 00:05:46.032] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/268322, l='ServerLevel[world]', x=961.16, y=-16.00, z=1095.28] died: Foundry Guardian was shot by amigobuho360
+[31Dec2024 00:06:03.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was burnt to a crisp whilst fighting Foundry Guardian
+[31Dec2024 00:06:03.039] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[31Dec2024 00:06:04.385] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 00:06:26.281] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/267932, l='ServerLevel[world]', x=965.50, y=-13.00, z=1087.65] died: Foundry Guardian was shot by amigobuho360
+[31Dec2024 00:06:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Forge Sentry
+[31Dec2024 00:06:43.042] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[31Dec2024 00:06:44.280] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 00:06:54.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Hidden in the Depths]
+[31Dec2024 00:10:46.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[31Dec2024 00:10:46.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game

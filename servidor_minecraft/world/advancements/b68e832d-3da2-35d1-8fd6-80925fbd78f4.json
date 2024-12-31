@@ -753,6 +753,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-31 00:04:35 +0000",
       "minecraft:skeleton": "2024-12-24 13:40:48 +0000",
       "minecraft:vindicator": "2024-12-30 01:23:09 +0000",
       "minecraft:spider": "2024-12-23 21:40:58 +0000",
@@ -5877,73 +5878,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:02:56 +0000"
+      "log_spam_fixer": "2024-12-31 00:09:57 +0000"
     },
     "done": false
   },
@@ -5956,6 +5957,12 @@
   "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-30 23:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-31 00:06:54 +0000"
     },
     "done": true
   },
@@ -6109,6 +6116,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 00:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-30 23:57:39 +0000"
@@ -6148,6 +6161,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-31 00:06:54 +0000"
     },
     "done": true
   },
@@ -6241,6 +6260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-31 00:06:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-30 23:51:00 +0000"
@@ -6277,6 +6302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-31 00:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-30 21:53:12 +0000"
@@ -6295,6 +6326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-31 00:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-30 21:53:12 +0000"
@@ -6304,6 +6341,12 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2024-12-30 22:17:54 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-31 00:06:54 +0000"
     },
     "done": true
   },
