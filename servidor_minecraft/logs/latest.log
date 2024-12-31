@@ -341,3 +341,42 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [31Dec2024 01:26:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Old Miner
 [31Dec2024 01:26:05.231] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [31Dec2024 01:26:06.723] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:26:28.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[31Dec2024 01:26:42.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Old Miner
+[31Dec2024 01:26:42.941] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[31Dec2024 01:26:44.424] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:26:45.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[31Dec2024 01:26:57.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[31Dec2024 01:31:14.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Old Miner
+[31Dec2024 01:31:14.389] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[31Dec2024 01:31:15.758] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:32:00.498] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot first try, trying again with longer range.
+[31Dec2024 01:32:00.557] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot second try, trying to move slightly towards the center between key biomes.
+[31Dec2024 01:32:00.608] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot third try, trying to move further towards the center between key biomes.
+[31Dec2024 01:32:00.640] [Server thread/WARN] [twilightforest/]: Still did not find a safe portal spot.
+[31Dec2024 01:32:10.093] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[31Dec2024 01:32:10.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10041ms or 200 ticks behind
+[31Dec2024 01:32:10.559] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[31Dec2024 01:32:10.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! 5986.988628688597,-57.92159999847412,11561.181076479428
+[31Dec2024 01:32:12.530] [Worker-Main-127/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$HutType
+[31Dec2024 01:32:13.236] [Worker-Main-127/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/WoodPalette$WoodShapes
+[31Dec2024 01:32:40.823] [Worker-Main-127/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$BasementType
+[31Dec2024 01:33:43.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[31Dec2024 01:34:31.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[31Dec2024 01:34:40.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[31Dec2024 01:34:40.273] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:35:44.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by ZingyMonk719952
+[31Dec2024 01:35:44.775] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[31Dec2024 01:36:05.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[31Dec2024 01:36:05.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[31Dec2024 01:36:12.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.91.56.198:51289] logged in with entity id 335145 at (6816.536162350783, 6.0, 13129.573407874756)
+[31Dec2024 01:36:12.821] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[31Dec2024 01:36:12.821] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[31Dec2024 01:36:12.822] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[31Dec2024 01:36:12.823] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[31Dec2024 01:36:12.825] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[31Dec2024 01:36:12.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[31Dec2024 01:36:12.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[31Dec2024 01:36:12.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[31Dec2024 01:36:12.908] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[31Dec2024 01:36:16.585] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.

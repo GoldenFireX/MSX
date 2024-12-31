@@ -6322,75 +6322,120 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "requirement": "2024-12-31 01:35:37 +0000",
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:39:56 +0000"
+      "log_spam_fixer": "2024-12-31 01:35:15 +0000"
     },
     "done": false
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2024-12-31 01:35:20 +0000",
+      "twilight_oak_wood": "2024-12-31 01:34:41 +0000",
+      "twilight_oak_sapling": "2024-12-31 01:34:41 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2024-12-31 01:34:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2024-12-31 01:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-31 01:35:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2024-12-31 01:35:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2024-12-31 01:35:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-31 01:34:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
