@@ -30,3 +30,18 @@
 [31Dec2024 00:10:46.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
 [31Dec2024 00:10:46.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
 [31Dec2024 00:34:24.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Vampire Slayer]
+[31Dec2024 00:37:24.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.91.56.198:35309] logged in with entity id 281582 at (964.3000000119209, -18.0, 1087.3005167693032)
+[31Dec2024 00:37:24.942] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[31Dec2024 00:37:24.946] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[31Dec2024 00:37:24.948] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[31Dec2024 00:37:24.949] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[31Dec2024 00:37:24.958] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[31Dec2024 00:37:24.980] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[31Dec2024 00:37:24.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[31Dec2024 00:37:25.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[31Dec2024 00:37:25.154] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[31Dec2024 00:37:27.142] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 00:38:37.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [Learn to Fart]
+[31Dec2024 00:40:05.526] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/282643, l='ServerLevel[world]', x=916.47, y=-256.00, z=1646.78] died, message: 'Unemployed was killed'
+[31Dec2024 00:40:23.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[31Dec2024 00:40:23.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game

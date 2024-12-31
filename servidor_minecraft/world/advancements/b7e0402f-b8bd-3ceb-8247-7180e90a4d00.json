@@ -7824,6 +7824,12 @@
     },
     "done": true
   },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-31 00:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-31 00:02:35 +0000"
@@ -7839,6 +7845,12 @@
   "dungeons_arise:find_foundry": {
     "criteria": {
       "location0": "2024-12-30 23:56:41 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2024-12-31 00:38:37 +0000"
     },
     "done": true
   },
