@@ -1842,6 +1842,7 @@
       "cooked_mutton": "2024-12-29 03:29:51 +0000",
       "sweet_berries": "2024-12-23 22:35:17 +0000",
       "cooked_beef": "2024-12-23 21:56:48 +0000",
+      "baked_potato": "2024-12-31 07:03:18 +0000",
       "apple": "2024-12-27 08:53:17 +0000",
       "potato": "2024-12-26 23:06:40 +0000",
       "cooked_cod": "2024-12-29 02:42:53 +0000",
@@ -7448,6 +7449,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "guts": "2024-12-31 07:12:50 +0000",
       "bluemoon_short": "2024-12-30 00:27:13 +0000"
     },
     "done": false
@@ -8064,9 +8066,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-12-31 06:42:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-31 07:02:07 +0000"
     },
     "done": true
   },
@@ -8082,6 +8096,18 @@
     },
     "done": true
   },
+  "creategoggles:recipes/goggle_netherite_helmet": {
+    "criteria": {
+      "has_helmet": "2024-12-31 07:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-31 07:01:27 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_blackstone_brick_slab_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2024-12-31 06:42:16 +0000"
@@ -8094,9 +8120,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/blackstone": {
     "criteria": {
       "has_planks": "2024-12-31 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
     },
     "done": true
   },
@@ -8124,9 +8162,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_blackstone_slab_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2024-12-31 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:heap_of_iron": {
+    "criteria": {
+      "soulsweapons:guts_sword": "2024-12-31 07:12:50 +0000"
     },
     "done": true
   },
@@ -8135,6 +8203,12 @@
       "has_blackstone": "2024-12-31 06:42:16 +0000"
     },
     "done": true
+  },
+  "soulsweapons:bloodthirsty": {
+    "criteria": {
+      "effect": "2024-12-31 07:16:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
@@ -8166,6 +8240,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-31 07:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-31 06:42:40 +0000"
@@ -8184,15 +8264,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-31 06:42:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-31 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-31 07:01:27 +0000"
     },
     "done": true
   },
@@ -8208,6 +8306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_wood": "2024-12-31 06:42:16 +0000"
@@ -8217,6 +8321,12 @@
   "create_dd:recipes/create_dd.palettes/cut_blackstone_brick_stairs_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2024-12-31 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
     },
     "done": true
   },
@@ -8286,6 +8396,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-31 07:02:12 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_blackstone_brick_slab_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2024-12-31 06:42:16 +0000"
@@ -8313,6 +8429,12 @@
   "create_dd:recipes/create_dd.palettes/cut_blackstone_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2024-12-31 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
     },
     "done": true
   },
