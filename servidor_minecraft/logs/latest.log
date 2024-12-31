@@ -806,3 +806,25 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [31Dec2024 02:37:24.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/382801, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
 [31Dec2024 02:38:09.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/382860, l='ServerLevel[world]', x=922.50, y=97.56, z=1643.50] died, message: 'Unemployed was killed'
 [31Dec2024 02:38:19.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/383107, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
+[31Dec2024 02:40:32.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Mutant Skeleton
+[31Dec2024 02:40:32.688] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[31Dec2024 02:40:33.924] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 02:40:39.452] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/359011, l='ServerLevel[world]', x=955.50, y=12.10, z=1566.27, removed=DISCARDED]
+[31Dec2024 02:45:41.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.147.73.159:51237] logged in with entity id 387772 at (6539.594301129403, 6.0, 13042.294587988798)
+[31Dec2024 02:45:41.040] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[31Dec2024 02:45:41.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[31Dec2024 02:45:41.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[31Dec2024 02:45:41.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[31Dec2024 02:45:41.044] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[31Dec2024 02:45:41.048] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[31Dec2024 02:45:41.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[31Dec2024 02:45:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[31Dec2024 02:45:41.102] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[31Dec2024 02:45:47.228] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[31Dec2024 02:46:26.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Black or White]
+[31Dec2024 02:46:43.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [A Small Cemetery]
+[31Dec2024 02:47:09.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[31Dec2024 02:47:27.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[31Dec2024 02:47:59.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[31Dec2024 02:48:16.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[31Dec2024 02:48:48.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
