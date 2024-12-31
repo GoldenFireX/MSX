@@ -6365,15 +6365,33 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "tombstone:recipes/from_decorative_grave": {
     "criteria": {
-      "requirement": "2024-12-31 02:44:10 +0000"
+      "has_ingredient": "2024-12-31 02:46:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2024-12-31 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2024-12-31 02:46:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2024-12-31 02:46:26 +0000"
     },
     "done": true
   },
