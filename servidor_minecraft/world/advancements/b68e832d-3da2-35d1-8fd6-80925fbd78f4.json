@@ -5121,7 +5121,8 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
-      "bluemoon_short": "2024-12-29 06:12:02 +0000"
+      "bluemoon_short": "2024-12-29 06:12:02 +0000",
+      "bluemoon_great": "2024-12-31 02:18:33 +0000"
     },
     "done": false
   },
@@ -6361,6 +6362,12 @@
   "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
       "has_item": "2024-12-31 01:35:20 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-31 02:23:02 +0000"
     },
     "done": true
   },

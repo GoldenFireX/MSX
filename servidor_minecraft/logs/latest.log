@@ -789,3 +789,15 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
   "<partial numeric data>",
   "[-22, -100, 35, -23, -106, 35, 56, -55, 64, 15, 127]"
 ]
+[31Dec2024 02:18:46.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/373352, l='ServerLevel[world]', x=911.27, y=-256.00, z=1645.45] died, message: 'Unemployed was killed'
+[31Dec2024 02:19:04.980] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/359011, l='ServerLevel[world]', x=955.50, y=12.10, z=1566.27, removed=DISCARDED]
+[31Dec2024 02:19:23.469] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[31Dec2024 02:19:23.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! 5985.800000011921,-57.67647087614428,11560.386659828175
+[31Dec2024 02:20:02.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[31Dec2024 02:20:30.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[31Dec2024 02:20:52.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [The Silence of the Forest]
+[31Dec2024 02:23:02.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [A True Source of Evil]
+[31Dec2024 02:24:04.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[31Dec2024 02:24:22.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3007ms or 60 ticks behind
+[31Dec2024 02:26:19.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
+[31Dec2024 02:26:19.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
