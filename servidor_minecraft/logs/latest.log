@@ -323,3 +323,21 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "B~W]5NEYX]k"
 ]
+[31Dec2024 01:19:21.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [Cannibal]
+[31Dec2024 01:19:27.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 withered away
+[31Dec2024 01:19:27.742] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[31Dec2024 01:19:29.729] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[31Dec2024 01:24:16.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.91.56.198:40421] logged in with entity id 300244 at (964.3000000119209, -18.0, 1087.699999988079)
+[31Dec2024 01:24:16.511] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[31Dec2024 01:24:16.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[31Dec2024 01:24:16.513] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[31Dec2024 01:24:16.513] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[31Dec2024 01:24:16.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[31Dec2024 01:24:16.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[31Dec2024 01:24:16.521] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[31Dec2024 01:24:16.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[31Dec2024 01:24:16.652] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[31Dec2024 01:24:18.599] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:26:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Old Miner
+[31Dec2024 01:26:05.231] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[31Dec2024 01:26:06.723] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
