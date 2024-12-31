@@ -48,3 +48,6 @@
 [31Dec2024 00:53:25.510] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/286301, l='ServerLevel[world]', x=909.61, y=-256.00, z=1644.16] died, message: 'Unemployed was killed'
 [31Dec2024 00:55:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Black or White]
 [31Dec2024 00:55:21.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [A Small Cemetery]
+[31Dec2024 00:56:50.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/288460, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
+[31Dec2024 00:57:22.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Bargaining with Death]
+[31Dec2024 00:58:49.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/289342, l='ServerLevel[world]', x=924.40, y=-256.00, z=1651.07] died, message: 'Unemployed was killed'
