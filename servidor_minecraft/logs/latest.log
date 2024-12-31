@@ -380,3 +380,42 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [31Dec2024 01:36:12.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
 [31Dec2024 01:36:12.908] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
 [31Dec2024 01:36:16.585] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:36:49.278] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:36:55.644] [Worker-Main-127/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/darktower/EnumDarkTowerDoor
+[31Dec2024 01:36:56.972] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:36:57.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3313ms or 66 ticks behind
+[31Dec2024 01:38:27.868] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:38:27.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15468ms or 309 ticks behind
+[31Dec2024 01:38:38.964] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:38:38.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved too quickly! 5985.993539875588,-57.67647087614428,11560.42423233037
+[31Dec2024 01:38:45.078] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:38:45.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved too quickly! -5986.052767409965,58.07840000152588,-11562.341480394145
+[31Dec2024 01:38:49.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6489ms or 129 ticks behind
+[31Dec2024 01:39:05.110] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:39:05.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved too quickly! 5985.9209940803585,-57.67647087614428,11560.459136103997
+[31Dec2024 01:39:09.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5622ms or 112 ticks behind
+[31Dec2024 01:39:10.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6841, y=7, z=13186} BlockPos{x=6841, y=5, z=13185}
+[31Dec2024 01:39:10.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6841, y=7, z=13186} BlockPos{x=6841, y=5, z=13185}
+[31Dec2024 01:39:15.998] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:39:17.172] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:39:17.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved too quickly! 5987.165596503112,-57.92159999847412,11560.942120611024
+[31Dec2024 01:39:20.026] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[31Dec2024 01:39:39.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[31Dec2024 01:40:34.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/340349, l='ServerLevel[world]', x=924.16, y=-256.00, z=1651.09] died, message: 'Unemployed was killed'
+[31Dec2024 01:42:52.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[31Dec2024 01:42:52.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[31Dec2024 01:42:52.909] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Dec2024 01:43:30.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6849, y=7, z=13209} BlockPos{x=6850, y=5, z=13209}
+[31Dec2024 01:43:53.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6849, y=6, z=13210} BlockPos{x=6849, y=5, z=13212}
+[31Dec2024 01:43:55.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6851, y=7, z=13212} BlockPos{x=6852, y=5, z=13214}
+[31Dec2024 01:45:26.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.91.56.198:60445] logged in with entity id 343629 at (1089.742834953372, 34.0, 1656.619744051663)
+[31Dec2024 01:45:26.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[31Dec2024 01:45:26.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[31Dec2024 01:45:26.809] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[31Dec2024 01:45:26.809] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[31Dec2024 01:45:26.811] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[31Dec2024 01:45:26.813] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[31Dec2024 01:45:26.822] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[31Dec2024 01:45:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[31Dec2024 01:45:26.923] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[31Dec2024 01:45:29.150] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
