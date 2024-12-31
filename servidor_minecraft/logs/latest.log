@@ -45,3 +45,6 @@
 [31Dec2024 00:40:05.526] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/282643, l='ServerLevel[world]', x=916.47, y=-256.00, z=1646.78] died, message: 'Unemployed was killed'
 [31Dec2024 00:40:23.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
 [31Dec2024 00:40:23.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[31Dec2024 00:53:25.510] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/286301, l='ServerLevel[world]', x=909.61, y=-256.00, z=1644.16] died, message: 'Unemployed was killed'
+[31Dec2024 00:55:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Black or White]
+[31Dec2024 00:55:21.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [A Small Cemetery]
