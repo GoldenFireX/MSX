@@ -801,3 +801,8 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [31Dec2024 02:24:22.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3007ms or 60 ticks behind
 [31Dec2024 02:26:19.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
 [31Dec2024 02:26:19.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[31Dec2024 02:34:25.864] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/380957, l='ServerLevel[world]', x=922.00, y=-256.00, z=1659.61] died, message: 'Unemployed was killed'
+[31Dec2024 02:35:04.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/381920, l='ServerLevel[world]', x=914.50, y=-256.00, z=1644.68] died, message: 'Unemployed was killed'
+[31Dec2024 02:37:24.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/382801, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
+[31Dec2024 02:38:09.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/382860, l='ServerLevel[world]', x=922.50, y=97.56, z=1643.50] died, message: 'Unemployed was killed'
+[31Dec2024 02:38:19.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/383107, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
