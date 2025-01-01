@@ -3625,3 +3625,15 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 04:07:34.453] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
 [01Jan2025 04:07:34.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
 [01Jan2025 04:09:06.233] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/35290, l='ServerLevel[world]', x=954.62, y=-16.78, z=1110.51] died: Foundry Guardian was shot by amigobuho360
+[01Jan2025 04:12:59.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36231, l='ServerLevel[world]', x=949.59, y=-16.00, z=1072.68] died: Foundry Guardian was shot by amigobuho360
+[01Jan2025 04:13:12.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36294, l='ServerLevel[world]', x=947.99, y=-16.00, z=1076.11] died: Foundry Guardian was shot by amigobuho360
+[01Jan2025 04:13:15.684] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36291, l='ServerLevel[world]', x=949.62, y=-16.00, z=1073.92] died: Foundry Guardian was shot by amigobuho360
+[01Jan2025 04:13:26.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36293, l='ServerLevel[world]', x=950.61, y=-14.73, z=1074.59] died: Foundry Guardian was shot by amigobuho360
+[01Jan2025 04:13:27.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36234, l='ServerLevel[world]', x=950.68, y=-15.61, z=1073.40] died: Foundry Guardian was shot by amigobuho360
+[01Jan2025 04:13:37.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36233, l='ServerLevel[world]', x=949.87, y=-16.00, z=1072.11] died: Foundry Guardian was shot by amigobuho360
+[01Jan2025 04:13:46.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36292, l='ServerLevel[world]', x=948.94, y=-16.00, z=1071.70] died: Foundry Guardian was shot by amigobuho360
+[01Jan2025 04:18:28.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36814, l='ServerLevel[world]', x=939.78, y=-14.74, z=1118.38] died: Foundry Guardian was slain by amigobuho360
+[01Jan2025 04:18:48.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/37204, l='ServerLevel[world]', x=941.79, y=-16.72, z=1093.63] died: Foundry Guardian was slain by amigobuho360
+[01Jan2025 04:18:58.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Old Miner
+[01Jan2025 04:18:58.922] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[01Jan2025 04:19:00.946] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
