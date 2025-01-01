@@ -3593,3 +3593,15 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 03:31:29.802] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [01Jan2025 03:35:46.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/furniture/refurbished/platform/services/IPlatformHelper$Platform
 [01Jan2025 03:37:52.953] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/furniture/refurbished/blockentity/IProcessingBlock$EnergyMode
+[01Jan2025 03:39:06.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/furniture/refurbished/electricity/Connection$Node$Status
+[01Jan2025 03:40:24.846] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[01Jan2025 03:40:24.849] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[01Jan2025 03:40:26.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9933, l='ServerLevel[world]', x=921.95, y=-256.00, z=1659.67] died, message: 'Unemployed was killed'
+[01Jan2025 03:40:48.040] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10291, l='ServerLevel[world]', x=924.58, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
+[01Jan2025 03:43:56.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11147, l='ServerLevel[world]', x=818.54, y=-256.00, z=1641.21] died, message: 'Unemployed was killed'
+[01Jan2025 03:44:52.839] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11313, l='ServerLevel[world]', x=928.43, y=-256.00, z=1643.27] died, message: 'Unemployed was killed'
+[01Jan2025 03:45:42.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[01Jan2025 03:45:42.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[01Jan2025 03:45:42.761] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[01Jan2025 03:46:16.790] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[01Jan2025 03:47:08.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Ice Bucket Challenge]
