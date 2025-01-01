@@ -8066,6 +8066,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
@@ -8120,6 +8126,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
@@ -8150,6 +8162,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-31 06:42:16 +0000"
@@ -8161,6 +8179,24 @@
       "has_stone_types_blackstone": "2024-12-31 06:42:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
@@ -8174,11 +8210,23 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 07:01:48 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
@@ -8197,6 +8245,12 @@
       "soulsweapons:guts_sword": "2024-12-31 07:12:50 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
@@ -8227,6 +8281,12 @@
       "has_blackstone": "2024-12-31 06:42:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
@@ -8300,6 +8360,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-31 06:42:16 +0000"
@@ -8347,6 +8413,12 @@
       "has_ancient_debris": "2024-12-31 06:42:40 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 07:19:51 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/decorations/blackstone_bulb": {
     "criteria": {
