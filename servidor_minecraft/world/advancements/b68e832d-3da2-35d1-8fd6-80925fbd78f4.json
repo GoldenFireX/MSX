@@ -584,6 +584,7 @@
       "orchard": "2024-12-30 01:20:11 +0000",
       "overgrown_greens": "2024-12-30 00:42:00 +0000",
       "coniferous_forest": "2024-12-23 21:38:44 +0000",
+      "spider_nest": "2025-01-01 04:26:11 +0000",
       "dune_beach": "2024-12-30 01:14:25 +0000",
       "seasonal_forest": "2024-12-23 21:54:16 +0000",
       "lavender_field": "2024-12-30 01:14:31 +0000",
@@ -7006,6 +7007,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-01 04:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-01 04:27:30 +0000"
     },
     "done": true
   },

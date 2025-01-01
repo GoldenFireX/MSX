@@ -3641,3 +3641,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 04:21:20.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
 [01Jan2025 04:21:20.332] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [01Jan2025 04:21:22.093] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[01Jan2025 04:40:02.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Crawler'/49349, l='ServerLevel[world]', x=975.66, y=-24.00, z=1402.32] died: Crawler was blown up by Crawler
