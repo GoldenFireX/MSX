@@ -3605,3 +3605,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 03:45:42.761] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
 [01Jan2025 03:46:16.790] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [01Jan2025 03:47:08.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Ice Bucket Challenge]
+[01Jan2025 03:51:02.571] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[01Jan2025 03:53:42.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
