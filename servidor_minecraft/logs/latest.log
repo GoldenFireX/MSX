@@ -3637,3 +3637,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 04:18:58.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Old Miner
 [01Jan2025 04:18:58.922] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [01Jan2025 04:19:00.946] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[01Jan2025 04:21:01.346] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[01Jan2025 04:21:20.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[01Jan2025 04:21:20.332] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[01Jan2025 04:21:22.093] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
