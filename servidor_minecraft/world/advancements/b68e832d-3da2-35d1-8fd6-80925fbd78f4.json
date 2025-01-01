@@ -6896,6 +6896,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-01 04:36:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
       "has_redstone": "2025-01-01 03:34:12 +0000"
