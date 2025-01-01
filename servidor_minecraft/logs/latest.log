@@ -3607,3 +3607,21 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 03:47:08.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Ice Bucket Challenge]
 [01Jan2025 03:51:02.571] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
 [01Jan2025 03:53:42.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[01Jan2025 03:59:14.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[01Jan2025 03:59:14.890] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[01Jan2025 03:59:16.256] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[01Jan2025 03:59:21.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[01Jan2025 03:59:40.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[01Jan2025 04:01:52.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[01Jan2025 04:02:23.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[01Jan2025 04:02:46.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8304ms or 166 ticks behind
+[01Jan2025 04:03:15.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[01Jan2025 04:03:33.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[01Jan2025 04:03:56.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[01Jan2025 04:05:06.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by amigobuho360
+[01Jan2025 04:05:07.020] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[01Jan2025 04:05:08.390] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[01Jan2025 04:06:08.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01Jan2025 04:07:34.453] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[01Jan2025 04:07:34.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01Jan2025 04:09:06.233] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/35290, l='ServerLevel[world]', x=954.62, y=-16.78, z=1110.51] died: Foundry Guardian was shot by amigobuho360
