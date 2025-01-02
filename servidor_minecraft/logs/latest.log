@@ -2510,3 +2510,32 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [02Jan2025 07:18:54.174] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [02Jan2025 07:19:01.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
 [02Jan2025 07:19:31.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[02Jan2025 07:25:33.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[02Jan2025 07:25:54.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Magma Cube
+[02Jan2025 07:25:54.306] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 07:25:56.471] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:25:56.920] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/49351, l='ServerLevel[world]', x=828.60, y=-7.32, z=1639.50, removed=DISCARDED]
+[02Jan2025 07:26:09.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[02Jan2025 07:27:29.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 went up in flames
+[02Jan2025 07:27:29.060] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:27:31.373] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:27:36.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[02Jan2025 07:27:44.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Magma Cube
+[02Jan2025 07:27:44.299] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:27:45.642] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:27:59.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was shot by Forge Sentry
+[02Jan2025 07:27:59.203] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 07:28:01.029] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/49351, l='ServerLevel[world]', x=828.60, y=-7.32, z=1639.50, removed=DISCARDED]
+[02Jan2025 07:28:01.208] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:28:02.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Magma Cube
+[02Jan2025 07:28:02.854] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:28:04.183] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:28:27.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[02Jan2025 07:29:05.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -9.96748400647607,-0.5061351021062359,1.6072561058322208
+[02Jan2025 07:29:55.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Ol' Betsy]
+[02Jan2025 07:30:03.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Foundry Guardian
+[02Jan2025 07:30:03.323] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:30:04.668] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:30:09.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[02Jan2025 07:30:22.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was fireballed by Foundry Guardian
+[02Jan2025 07:30:22.693] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
