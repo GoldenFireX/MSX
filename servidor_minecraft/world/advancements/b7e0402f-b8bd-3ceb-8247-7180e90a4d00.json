@@ -1071,6 +1071,7 @@
       "minecraft:piglin_brute": "2024-12-27 02:33:36 +0000",
       "minecraft:creeper": "2024-12-27 02:15:34 +0000",
       "minecraft:evoker": "2024-12-23 21:59:00 +0000",
+      "minecraft:wither_skeleton": "2025-01-02 07:34:46 +0000",
       "minecraft:cave_spider": "2024-12-30 23:10:45 +0000",
       "minecraft:piglin": "2024-12-27 02:33:09 +0000",
       "minecraft:silverfish": "2024-12-29 23:10:27 +0000",
@@ -8457,6 +8458,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-02 07:21:13 +0000"
@@ -8511,6 +8518,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-02 07:21:13 +0000"
@@ -8520,6 +8533,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-01-02 06:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-02 07:32:34 +0000"
     },
     "done": true
   },
@@ -8625,6 +8644,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
@@ -8727,6 +8752,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
@@ -8823,6 +8854,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
@@ -8838,6 +8875,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_fridge": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
     },
     "done": true
   },
@@ -8871,6 +8914,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-01-02 06:36:37 +0000"
@@ -8892,6 +8941,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2025-01-02 06:36:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
     },
     "done": true
   },
@@ -9027,6 +9082,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
     "criteria": {
       "has_planks": "2025-01-02 06:36:37 +0000"
@@ -9054,6 +9115,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
     },
     "done": true
   },
@@ -9147,6 +9214,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
@@ -9156,6 +9229,18 @@
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-01-02 06:36:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-02 07:35:34 +0000"
     },
     "done": true
   },
@@ -9192,6 +9277,24 @@
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
     },
     "done": true
   },
@@ -9246,6 +9349,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
     },
     "done": true
   },
@@ -9321,6 +9430,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
@@ -9351,6 +9466,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
@@ -9360,6 +9481,18 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 07:30:35 +0000"
     },
     "done": true
   },
@@ -9411,6 +9544,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-02 07:29:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_planks": "2025-01-02 06:36:37 +0000"
@@ -9426,6 +9565,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
     },
     "done": true
   },
@@ -9471,6 +9616,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-01-02 07:21:13 +0000"
@@ -9480,6 +9631,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-02 07:21:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
     },
     "done": true
   },
@@ -9552,6 +9709,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
     },
     "done": true
   },
@@ -9765,6 +9928,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-02 07:35:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_planks": "2025-01-02 06:36:37 +0000"
@@ -9795,9 +9964,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2025-01-02 06:36:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
     },
     "done": true
   },
@@ -9834,6 +10015,12 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
     },
     "done": true
   },
@@ -9891,6 +10078,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
       "has_planks": "2025-01-02 06:36:37 +0000"
@@ -9900,6 +10093,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
       "has_planks": "2025-01-02 06:36:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
     },
     "done": true
   },
@@ -9927,6 +10126,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2025-01-02 06:49:53 +0000"
@@ -9936,6 +10141,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-02 06:52:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-02 07:28:27 +0000"
     },
     "done": true
   },
@@ -9960,6 +10171,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
     "criteria": {
       "has_planks": "2025-01-02 06:36:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-02 07:32:58 +0000"
     },
     "done": true
   },
