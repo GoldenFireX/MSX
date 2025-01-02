@@ -2421,3 +2421,46 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [02Jan2025 06:58:29.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Foundry Guardian
 [02Jan2025 06:58:29.379] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [02Jan2025 06:58:30.669] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 06:59:03.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Foundry Guardian
+[02Jan2025 06:59:03.459] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 06:59:04.720] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 06:59:04.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[02Jan2025 06:59:09.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[02Jan2025 06:59:28.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[02Jan2025 07:00:24.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was fireballed by Foundry Guardian
+[02Jan2025 07:00:24.976] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:00:26.451] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:00:33.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 suffocated in a wall
+[02Jan2025 07:00:33.165] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 07:00:33.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[02Jan2025 07:00:35.353] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:01:26.762] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:01:33.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02Jan2025 07:02:01.456] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:02:01.537] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/49351, l='ServerLevel[world]', x=828.60, y=-7.32, z=1639.50, removed=DISCARDED]
+[02Jan2025 07:02:40.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[02Jan2025 07:03:10.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Foundry Guardian
+[02Jan2025 07:03:10.985] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 07:03:13.445] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/49351, l='ServerLevel[world]', x=828.60, y=-7.32, z=1639.50, removed=DISCARDED]
+[02Jan2025 07:03:13.928] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:03:26.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[02Jan2025 07:03:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was burnt to a crisp whilst fighting Foundry Guardian
+[02Jan2025 07:03:46.961] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 07:03:48.666] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/49351, l='ServerLevel[world]', x=828.60, y=-7.32, z=1639.50, removed=DISCARDED]
+[02Jan2025 07:03:48.816] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:04:29.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[02Jan2025 07:05:06.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was fireballed by Foundry Guardian
+[02Jan2025 07:05:06.212] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:05:07.930] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:05:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 burned to death
+[02Jan2025 07:05:50.552] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:05:51.939] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:06:05.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/44949, l='ServerLevel[world]', x=927.38, y=-11.00, z=1105.61] died: Foundry Guardian was slain by amigobuho360
+[02Jan2025 07:06:56.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Foundry Guardian
+[02Jan2025 07:06:56.624] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 07:06:58.371] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/49351, l='ServerLevel[world]', x=828.60, y=-7.32, z=1639.50, removed=DISCARDED]
+[02Jan2025 07:06:58.437] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:07:41.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was doomed to fall
+[02Jan2025 07:07:41.071] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:07:42.531] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:08:19.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
