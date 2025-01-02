@@ -2595,3 +2595,52 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [02Jan2025 07:36:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Magma Cube
 [02Jan2025 07:36:55.598] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [02Jan2025 07:36:57.075] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:41:16.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was burnt to a crisp whilst fighting Foundry Guardian
+[02Jan2025 07:41:16.952] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 07:41:18.768] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/49351, l='ServerLevel[world]', x=828.60, y=-7.32, z=1639.50, removed=DISCARDED]
+[02Jan2025 07:41:18.821] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:41:24.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[02Jan2025 07:42:21.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Forge Sentry
+[02Jan2025 07:42:21.402] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:42:22.816] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:42:44.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was doomed to fall by Forge Sentry
+[02Jan2025 07:42:44.702] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:42:46.219] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:43:34.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/78321, l='ServerLevel[world]', x=1016.75, y=-6.65, z=1120.26] died: Foundry Guardian was shot by ZingyMonk719952
+[02Jan2025 07:44:14.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/87103, l='ServerLevel[world]', x=1005.63, y=-7.00, z=1121.96] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 07:45:01.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/86682, l='ServerLevel[world]', x=1004.48, y=-8.00, z=1120.05] died: Foundry Guardian was shot by ZingyMonk719952
+[02Jan2025 07:45:11.642] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/87104, l='ServerLevel[world]', x=998.46, y=-8.69, z=1120.64] died: Foundry Guardian was slain by Ghost Minecart
+[02Jan2025 07:45:42.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Forge Sentry
+[02Jan2025 07:45:42.755] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:45:44.136] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:45:48.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was doomed to fall
+[02Jan2025 07:45:48.725] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 07:45:50.726] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:45:51.379] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/49351, l='ServerLevel[world]', x=828.60, y=-7.32, z=1639.50, removed=DISCARDED]
+[02Jan2025 07:45:59.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[02Jan2025 07:46:27.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was shot by Forge Sentry
+[02Jan2025 07:46:27.899] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 07:46:30.299] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:46:30.464] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/49351, l='ServerLevel[world]', x=828.60, y=-7.32, z=1639.50, removed=DISCARDED]
+[02Jan2025 07:46:31.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Forge Sentry
+[02Jan2025 07:46:31.693] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:46:33.179] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:46:47.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[02Jan2025 07:47:00.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was burnt to a crisp whilst fighting Forge Sentry
+[02Jan2025 07:47:00.853] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 07:47:02.683] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 07:47:14.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/90163, l='ServerLevel[world]', x=997.51, y=-7.60, z=1120.36] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 07:47:23.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/90172, l='ServerLevel[world]', x=995.68, y=-8.00, z=1100.61] died: Forge Sentry was shot by amigobuho360
+[02Jan2025 07:47:34.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/90250, l='ServerLevel[world]', x=1000.00, y=-7.33, z=1118.52] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 07:47:39.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/90164, l='ServerLevel[world]', x=997.87, y=-5.46, z=1120.91] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 07:47:43.049] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/90251, l='ServerLevel[world]', x=997.78, y=-6.00, z=1127.89] died: Foundry Guardian was shot by ZingyMonk719952
+[02Jan2025 07:48:10.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/91180, l='ServerLevel[world]', x=1014.80, y=-3.00, z=1135.70] died: Foundry Guardian was slain by ZingyMonk719952
+[02Jan2025 07:48:14.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/91182, l='ServerLevel[world]', x=1010.68, y=-3.60, z=1133.83] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 07:49:01.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/90632, l='ServerLevel[world]', x=997.40, y=-7.41, z=1083.69] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 07:49:23.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was fireballed by Foundry Guardian
+[02Jan2025 07:49:23.106] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 07:49:24.772] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/49351, l='ServerLevel[world]', x=828.60, y=-7.32, z=1639.50, removed=DISCARDED]
+[02Jan2025 07:49:24.955] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 07:50:37.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/91694, l='ServerLevel[world]', x=984.78, y=-10.00, z=1081.38] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 07:50:41.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/90109, l='ServerLevel[world]', x=996.88, y=-5.79, z=1082.13] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 07:50:57.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/93105, l='ServerLevel[world]', x=995.96, y=-8.00, z=1077.44] died: Foundry Guardian was shot by amigobuho360

@@ -584,6 +584,7 @@
       "floodplain": "2024-12-27 07:24:49 +0000",
       "highland": "2024-12-26 21:56:40 +0000",
       "mystic_grove": "2024-12-27 07:30:05 +0000",
+      "cold_desert": "2025-01-02 07:39:47 +0000",
       "maple_woods": "2024-12-23 22:43:34 +0000",
       "field": "2024-12-23 22:14:40 +0000",
       "orchard": "2024-12-29 02:43:16 +0000",
@@ -8899,6 +8900,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_basin": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 07:00:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-01-02 07:37:53 +0000"
     },
     "done": true
   },
