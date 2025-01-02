@@ -2392,3 +2392,32 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [02Jan2025 06:47:34.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Skeleton
 [02Jan2025 06:47:34.063] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [02Jan2025 06:47:35.737] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 06:49:32.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was burnt to a crisp whilst fighting Foundry Guardian
+[02Jan2025 06:49:32.275] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 06:49:33.512] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 06:50:49.642] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/41310, l='ServerLevel[world]', x=944.55, y=-16.00, z=1122.94] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 06:50:56.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/41105, l='ServerLevel[world]', x=941.56, y=-16.00, z=1106.47] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 06:51:02.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Foundry Guardian
+[02Jan2025 06:51:02.828] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[02Jan2025 06:51:05.938] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[02Jan2025 06:51:26.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/41104, l='ServerLevel[world]', x=939.62, y=-16.00, z=1110.27] died: Foundry Guardian was shot by amigobuho360
+[02Jan2025 06:51:42.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[02Jan2025 06:52:12.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[02Jan2025 06:52:59.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Into Fire]
+[02Jan2025 06:53:27.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/43873, l='ServerLevel[world]', x=940.72, y=-16.00, z=1101.62] died: Foundry Guardian was slain by ZingyMonk719952
+[02Jan2025 06:53:56.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Hot Stuff]
+[02Jan2025 06:54:27.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Foundry Guardian
+[02Jan2025 06:54:27.180] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 06:54:28.578] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 06:54:59.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Amateur Archaeologist]
+[02Jan2025 06:57:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Foundry Guardian
+[02Jan2025 06:57:29.958] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 06:57:31.203] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 06:57:44.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[02Jan2025 06:58:06.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/45146, l='ServerLevel[world]', x=935.65, y=-4.00, z=1114.98] died: Foundry Guardian was killed by magic whilst trying to escape ZingyMonk719952
+[02Jan2025 06:58:11.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Foundry Guardian
+[02Jan2025 06:58:11.422] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 06:58:12.740] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Jan2025 06:58:29.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Foundry Guardian
+[02Jan2025 06:58:29.379] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Jan2025 06:58:30.669] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
