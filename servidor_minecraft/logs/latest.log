@@ -29233,3 +29233,20 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [03Jan2025 03:32:40.149] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [03Jan2025 03:33:04.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2057, y=-40, z=1418}
 [03Jan2025 03:34:11.504] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 03:37:44.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[03Jan2025 03:37:57.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/178537, l='ServerLevel[world]', x=911.34, y=-256.00, z=1643.98] died, message: 'Unemployed was killed'
+[03Jan2025 03:38:04.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
+[03Jan2025 03:38:28.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ACUA-Ws]
+[03Jan2025 03:39:24.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 froze to death
+[03Jan2025 03:39:24.489] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[03Jan2025 03:39:25.740] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[03Jan2025 03:41:58.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Forever Dawn?]
+[03Jan2025 03:41:58.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Now You're Thinking with Portals!]
+[03Jan2025 03:41:58.935] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[03Jan2025 03:42:00.306] [Worker-Main-247/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/passive/ShadeMonitorEntity$Biomes
+[03Jan2025 03:43:27.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 couldn't handle Emberback's heat
+[03Jan2025 03:43:27.202] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[03Jan2025 03:43:28.972] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[03Jan2025 03:43:36.273] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[03Jan2025 03:43:36.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[03Jan2025 03:43:41.488] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
