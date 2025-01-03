@@ -25909,3 +25909,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 86 out of bounds for lengt
 [03Jan2025 02:58:35.500] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [03Jan2025 03:00:42.473] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/144942, l='ServerLevel[world]', x=1225.50, y=75.00, z=2025.50]
 [03Jan2025 03:05:38.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[03Jan2025 03:06:19.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[03Jan2025 03:07:44.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[03Jan2025 03:07:54.224] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=842, y=8, z=2434}
+[03Jan2025 03:08:01.762] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=810, y=-48, z=2468}
+[03Jan2025 03:08:03.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[03Jan2025 03:13:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Cave Spider
+[03Jan2025 03:13:32.833] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[03Jan2025 03:13:34.289] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[03Jan2025 03:14:46.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03Jan2025 03:16:32.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Zombie
+[03Jan2025 03:16:32.558] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 03:16:34.656] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
