@@ -25897,3 +25897,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 86 out of bounds for lengt
 [03Jan2025 02:41:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Old Miner
 [03Jan2025 02:41:37.800] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [03Jan2025 02:41:39.721] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[03Jan2025 02:45:34.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[03Jan2025 02:47:36.321] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/134561, l='ServerLevel[world]', x=1297.50, y=75.00, z=1932.50]
+[03Jan2025 02:49:11.523] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/135018, l='ServerLevel[world]', x=924.02, y=-256.00, z=1651.08] died, message: 'Unemployed was killed'
+[03Jan2025 02:51:25.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/135623, l='ServerLevel[world]', x=909.48, y=-256.00, z=1641.57] died, message: 'Unemployed was killed'
+[03Jan2025 02:52:21.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/136103, l='ServerLevel[world]', x=1298.50, y=76.00, z=1899.50]
