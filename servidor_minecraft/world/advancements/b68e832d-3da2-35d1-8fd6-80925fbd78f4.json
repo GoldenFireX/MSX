@@ -8579,9 +8579,15 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-01-03 02:54:05 +0000"
+      "requirement": "2025-01-03 03:04:07 +0000"
     },
     "done": false
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-01-03 02:57:41 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
