@@ -8735,6 +8735,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-03 03:57:28 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2025-01-03 03:41:05 +0000"
