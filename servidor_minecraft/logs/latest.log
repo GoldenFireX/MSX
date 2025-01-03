@@ -9831,3 +9831,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [03Jan2025 01:20:07.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by ACUA-Ws
 [03Jan2025 01:20:07.909] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [03Jan2025 01:20:09.254] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[03Jan2025 01:29:14.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37319, l='ServerLevel[world]', x=940.31, y=-256.00, z=1668.33] died, message: 'Unemployed was killed'
+[03Jan2025 01:32:18.437] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
