@@ -9812,3 +9812,22 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [03Jan2025 01:11:31.270] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
 [03Jan2025 01:11:57.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29701, l='ServerLevel[world]', x=921.99, y=-256.00, z=1659.50] died, message: 'Unemployed was killed'
 [03Jan2025 01:11:58.389] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 01:12:59.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29998, l='ServerLevel[world]', x=923.43, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
+[03Jan2025 01:15:27.238] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/world/entity/eventlistener/ComboCounterHandleEvent$Causal
+[03Jan2025 01:15:27.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Direwolf
+[03Jan2025 01:15:27.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[03Jan2025 01:15:27.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[03Jan2025 01:15:27.296] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 01:15:31.842] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 01:16:21.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[03Jan2025 01:16:38.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Direwolf
+[03Jan2025 01:16:38.464] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 01:16:40.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31799, l='ServerLevel[world]', x=818.54, y=-256.00, z=1641.21] died, message: 'Unemployed was killed'
+[03Jan2025 01:16:46.305] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 01:18:27.748] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[03Jan2025 01:19:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Direwolf
+[03Jan2025 01:19:08.177] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 01:19:10.344] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 01:20:07.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by ACUA-Ws
+[03Jan2025 01:20:07.909] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[03Jan2025 01:20:09.254] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
