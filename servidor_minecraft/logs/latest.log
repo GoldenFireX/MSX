@@ -25891,3 +25891,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 86 out of bounds for lengt
 [03Jan2025 02:30:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
 [03Jan2025 02:30:15.850] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
 [03Jan2025 02:30:21.426] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 02:36:07.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Strange Encounter]
+[03Jan2025 02:37:57.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/128911, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[03Jan2025 02:39:07.361] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/130117, l='ServerLevel[world]', x=1325.50, y=74.00, z=1901.50]
+[03Jan2025 02:41:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Old Miner
+[03Jan2025 02:41:37.800] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[03Jan2025 02:41:39.721] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
