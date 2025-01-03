@@ -9864,3 +9864,27 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [03Jan2025 01:52:15.545] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [03Jan2025 01:52:17.332] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
 [03Jan2025 01:53:41.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Alex's Caves]
+[03Jan2025 01:53:55.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[03Jan2025 01:54:22.737] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[03Jan2025 01:54:29.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Once Upon a Cave]
+[03Jan2025 01:54:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was blown up by Crawler
+[03Jan2025 01:54:34.360] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 01:54:35.948] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 01:55:16.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 hit the ground too hard
+[03Jan2025 01:55:16.255] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[03Jan2025 01:55:17.558] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[03Jan2025 01:56:03.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has completed the challenge [Cannibal]
+[03Jan2025 01:56:06.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/81972, l='ServerLevel[world]', x=921.95, y=-256.00, z=1659.67] died, message: 'Unemployed was killed'
+[03Jan2025 01:57:42.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was blown up by Faller
+[03Jan2025 01:57:42.249] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[03Jan2025 01:57:43.612] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[03Jan2025 01:59:10.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Skeleton
+[03Jan2025 01:59:10.248] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 01:59:11.693] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 01:59:21.400] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[03Jan2025 01:59:21.401] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[03Jan2025 01:59:21.422] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[03Jan2025 02:01:43.373] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[03Jan2025 02:04:05.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was blown up by Intruder
+[03Jan2025 02:04:05.074] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 02:04:06.937] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
