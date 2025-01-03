@@ -8759,9 +8759,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-03 03:53:56 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
     "criteria": {
       "has_item": "2025-01-03 03:41:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-01-03 03:50:06 +0000"
     },
     "done": true
   },
@@ -8774,6 +8786,12 @@
   "blue_skies:everdawn/enter": {
     "criteria": {
       "enter_everdawn": "2025-01-03 03:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-03 03:53:56 +0000"
     },
     "done": true
   },
