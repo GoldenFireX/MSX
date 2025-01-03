@@ -8265,6 +8265,12 @@
     },
     "done": true
   },
+  "creategoggles:recipes/goggle_diamond_helmet": {
+    "criteria": {
+      "has_helmet": "2025-01-03 01:29:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2025-01-03 01:23:16 +0000"
