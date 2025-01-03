@@ -16758,3 +16758,22 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [03Jan2025 02:12:01.254] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
 [03Jan2025 02:14:24.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was blown up by Faller
 [03Jan2025 02:14:24.912] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 02:14:26.693] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 02:16:52.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103477, l='ServerLevel[world]', x=818.54, y=-256.00, z=1641.21] died, message: 'Unemployed was killed'
+[03Jan2025 02:17:35.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103525, l='ServerLevel[world]', x=929.48, y=-256.00, z=1645.29] died, message: 'Unemployed was killed'
+[03Jan2025 02:17:36.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Skeleton
+[03Jan2025 02:17:36.308] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 02:17:37.766] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 02:20:52.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[03Jan2025 02:20:52.773] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[03Jan2025 02:22:15.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Enderman
+[03Jan2025 02:22:15.305] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 02:22:16.660] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 02:23:01.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Not of Chocolate]
+[03Jan2025 02:23:33.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Where Is The Stone Pen?]
+[03Jan2025 02:23:33.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Quickly Applied]
+[03Jan2025 02:23:35.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was blown up by Crawler
+[03Jan2025 02:23:35.110] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[03Jan2025 02:23:36.879] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[03Jan2025 02:23:51.437] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[03Jan2025 02:23:51.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Let The Magic Happen]
