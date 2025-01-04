@@ -6633,3 +6633,9 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [04Jan2025 04:20:53.398] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
 [04Jan2025 04:20:53.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28613, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
 [04Jan2025 04:23:33.217] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/32988, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
+[04Jan2025 04:26:30.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Zombie
+[04Jan2025 04:26:30.432] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[04Jan2025 04:26:31.744] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[04Jan2025 04:27:45.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37091, l='ServerLevel[world]', x=920.07, y=-256.00, z=1655.03] died, message: 'Unemployed was killed'
+[04Jan2025 04:28:45.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37396, l='ServerLevel[world]', x=937.70, y=-256.00, z=1637.22] died, message: 'Unemployed was killed'
+[04Jan2025 04:34:23.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
