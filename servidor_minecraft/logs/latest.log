@@ -28892,3 +28892,16 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 2505 out of bounds fo
 [04Jan2025 06:06:30.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
 [04Jan2025 06:06:41.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=611, y=36, z=3102}
 [04Jan2025 06:06:51.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6555ms or 131 ticks behind
+[04Jan2025 06:07:14.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Jan2025 06:07:38.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9436ms or 188 ticks behind
+[04Jan2025 06:10:31.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/142472, l='ServerLevel[world]', x=753.24, y=63.00, z=2889.54] died, message: 'Unemployed was slain by Zombie'
+[04Jan2025 06:12:16.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/143338, l='ServerLevel[world]', x=720.34, y=66.63, z=2835.22] died, message: 'Nitwit was slain by Equestrian'
+[04Jan2025 06:12:24.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/143353, l='ServerLevel[world]', x=649.09, y=66.00, z=2887.05] died, message: 'Farmer was burnt to a crisp whilst fighting Slugger'
+[04Jan2025 06:13:40.194] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=455, y=17, z=3027}
+[04Jan2025 06:15:14.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/143239, l='ServerLevel[world]', x=636.01, y=64.00, z=2843.14] died, message: 'Cartographer was shot by ACUA-Ws'
+[04Jan2025 06:15:14.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Neighborhood Brawl]
+[04Jan2025 06:15:31.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=455, y=2, z=3055}
+[04Jan2025 06:16:04.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[04Jan2025 06:16:11.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1007, y=-42, z=2940}
+[04Jan2025 06:16:21.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[04Jan2025 06:17:38.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
