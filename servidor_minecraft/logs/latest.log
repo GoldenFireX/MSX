@@ -6654,3 +6654,5 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [04Jan2025 04:44:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Missionary
 [04Jan2025 04:44:00.399] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
 [04Jan2025 04:44:06.611] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[04Jan2025 04:48:26.165] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/67376, l='ServerLevel[world]', x=922.50, y=97.56, z=1643.50] died, message: 'Unemployed was killed'
+[04Jan2025 04:50:12.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Hunt and Gather]
