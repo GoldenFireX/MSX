@@ -381,12 +381,15 @@
     "criteria": {
       "shrubland": "2024-12-25 18:51:52 +0000",
       "rocky_shrubland": "2024-12-24 23:57:41 +0000",
+      "scrubland": "2025-01-04 05:57:08 +0000",
       "erupting_inferno": "2024-12-25 18:35:54 +0000",
       "highland": "2024-12-25 00:10:16 +0000",
       "maple_woods": "2024-12-24 23:57:59 +0000",
       "field": "2024-12-23 22:18:48 +0000",
+      "overgrown_greens": "2025-01-04 05:50:35 +0000",
       "coniferous_forest": "2024-12-23 21:49:35 +0000",
       "spider_nest": "2024-12-24 23:13:16 +0000",
+      "redwood_forest": "2025-01-04 05:54:20 +0000",
       "seasonal_forest": "2024-12-23 21:55:49 +0000",
       "fir_clearing": "2024-12-23 22:03:36 +0000",
       "pumpkin_patch": "2024-12-25 03:20:02 +0000",
@@ -395,6 +398,7 @@
       "snowy_fir_clearing": "2024-12-23 22:05:05 +0000",
       "gravel_beach": "2024-12-23 22:02:18 +0000",
       "glowing_grotto": "2024-12-25 03:52:29 +0000",
+      "crag": "2025-01-04 05:53:46 +0000",
       "ominous_woods": "2024-12-23 22:39:00 +0000"
     },
     "done": false
@@ -7196,6 +7200,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-04 06:07:08 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-04 06:01:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
     "criteria": {
       "has_birch_planks": "2025-01-04 04:38:11 +0000"
@@ -7205,6 +7221,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-01-04 04:21:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-04 06:00:01 +0000"
     },
     "done": true
   },
@@ -7220,6 +7242,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-04 06:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-04 06:00:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
       "has_birch_planks": "2025-01-04 04:38:11 +0000"
@@ -7229,6 +7263,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-01-04 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-01-04 06:01:32 +0000"
     },
     "done": true
   },
@@ -7247,6 +7287,18 @@
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_copper_ingot": "2025-01-04 04:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-04 06:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-04 06:01:31 +0000"
     },
     "done": true
   },
@@ -7271,6 +7323,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-01-04 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-04 06:00:01 +0000"
     },
     "done": true
   },
@@ -7316,9 +7374,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-04 06:00:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-04 05:58:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 06:01:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-01-04 04:21:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-04 05:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-04 06:01:31 +0000"
     },
     "done": true
   },
@@ -7340,9 +7428,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-01-04 06:01:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-01-04 04:21:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-01-04 06:01:32 +0000"
     },
     "done": true
   },

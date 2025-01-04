@@ -578,6 +578,7 @@
       "muskeg": "2025-01-01 04:02:24 +0000",
       "shrubland": "2024-12-23 22:44:45 +0000",
       "rocky_shrubland": "2024-12-23 22:47:13 +0000",
+      "scrubland": "2025-01-04 05:57:07 +0000",
       "highland": "2024-12-24 14:05:35 +0000",
       "jacaranda_glade": "2024-12-30 01:19:21 +0000",
       "cold_desert": "2025-01-02 07:26:59 +0000",
@@ -587,15 +588,18 @@
       "overgrown_greens": "2024-12-30 00:42:00 +0000",
       "coniferous_forest": "2024-12-23 21:38:44 +0000",
       "spider_nest": "2025-01-01 04:26:11 +0000",
+      "redwood_forest": "2025-01-04 05:54:03 +0000",
       "dune_beach": "2024-12-30 01:14:25 +0000",
       "seasonal_forest": "2024-12-23 21:54:16 +0000",
       "lavender_field": "2024-12-30 01:14:31 +0000",
       "fir_clearing": "2024-12-23 22:06:04 +0000",
       "pumpkin_patch": "2024-12-26 22:51:04 +0000",
       "grassland": "2024-12-23 22:53:32 +0000",
+      "prairie": "2025-01-04 05:54:32 +0000",
       "snowy_fir_clearing": "2024-12-23 22:06:47 +0000",
       "glowing_grotto": "2024-12-24 13:46:52 +0000",
-      "gravel_beach": "2024-12-29 22:59:34 +0000"
+      "gravel_beach": "2024-12-29 22:59:34 +0000",
+      "crag": "2025-01-04 05:53:16 +0000"
     },
     "done": false
   },
@@ -8824,9 +8828,45 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-01-04 06:01:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-01-04 04:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-04 05:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-04 05:56:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-04 05:59:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-04 05:56:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-04 05:56:28 +0000"
     },
     "done": true
   },
@@ -8836,9 +8876,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-04 05:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-04 05:59:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-01-04 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-01-04 05:59:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-01-04 05:55:27 +0000"
     },
     "done": true
   },
@@ -8857,6 +8921,12 @@
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_tomato": "2025-01-04 04:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-04 05:59:57 +0000"
     },
     "done": true
   },
@@ -8890,6 +8960,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 05:58:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-01-04 04:58:01 +0000"
@@ -8899,6 +8975,12 @@
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-01-04 04:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-04 05:56:26 +0000"
     },
     "done": true
   },
@@ -8917,6 +8999,12 @@
   "farmersdelight:recipes/food/hamburger": {
     "criteria": {
       "has_beef_patty": "2025-01-04 04:51:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-04 05:59:05 +0000"
     },
     "done": true
   },
@@ -8962,9 +9050,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-04 05:58:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-01-04 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-04 05:59:57 +0000"
     },
     "done": true
   },
@@ -9001,6 +9101,12 @@
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2025-01-04 04:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-04 05:56:28 +0000"
     },
     "done": true
   },
