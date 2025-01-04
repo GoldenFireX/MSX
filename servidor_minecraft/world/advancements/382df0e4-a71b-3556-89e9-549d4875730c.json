@@ -760,6 +760,7 @@
       "minecraft:skeleton": "2024-12-23 21:59:08 +0000",
       "minecraft:magma_cube": "2024-12-25 18:31:23 +0000",
       "minecraft:spider": "2024-12-23 22:03:14 +0000",
+      "minecraft:creeper": "2025-01-04 05:04:33 +0000",
       "minecraft:zombified_piglin": "2024-12-25 18:23:32 +0000",
       "minecraft:witch": "2024-12-25 01:13:56 +0000",
       "minecraft:wither_skeleton": "2024-12-25 18:30:45 +0000",
@@ -7222,6 +7223,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-01-04 04:38:11 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-01-04 05:04:00 +0000"
     },
     "done": true
   },

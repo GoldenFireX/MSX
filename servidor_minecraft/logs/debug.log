@@ -22287,3 +22287,90 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [04Jan2025 05:05:18.455] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
 [04Jan2025 05:05:18.456] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
 [04Jan2025 05:05:28.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84342, l='ServerLevel[world]', x=911.50, y=-256.00, z=1642.49] died, message: 'Unemployed was killed'
+[04Jan2025 05:06:16.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 05:06:16.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 05:06:16.706] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/85776, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[04Jan2025 05:06:16.706] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/85776, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e3b]
+[04Jan2025 05:06:16.797] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/85776, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[04Jan2025 05:06:38.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/87065, l='ServerLevel[world]', x=838.64, y=64.38, z=1661.40], dimensionLocationPath overworld
+[04Jan2025 05:06:38.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/87065, l='ServerLevel[world]', x=838.64, y=64.38, z=1661.40] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e3b]
+[04Jan2025 05:06:38.717] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/87065, l='ServerLevel[world]', x=838.89, y=64.13, z=1661.72, removed=DISCARDED]
+[04Jan2025 05:07:17.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:07:17.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:07:17.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:07:17.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:07:17.730] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:07:17.730] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:07:17.730] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:07:17.730] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:10:15.881] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/89636, l='ServerLevel[world]', x=1064.41, y=110.20, z=1647.34], dimensionLocationPath overworld
+[04Jan2025 05:10:15.882] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/89636, l='ServerLevel[world]', x=1064.41, y=110.20, z=1647.34] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e3b]
+[04Jan2025 05:10:16.470] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/89636, l='ServerLevel[world]', x=1064.55, y=110.00, z=1646.94, removed=DISCARDED]
+[04Jan2025 05:11:16.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 05:11:16.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 05:11:16.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/92389, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[04Jan2025 05:11:16.692] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/92389, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e3b]
+[04Jan2025 05:11:16.763] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/92389, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[04Jan2025 05:11:36.874] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:36.874] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:36.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:36.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:36.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:36.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:36.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:36.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:49.826] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:49.827] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:49.827] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:49.827] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:49.827] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:49.827] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:49.827] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:11:49.827] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:29.270] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:29.270] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:29.271] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:29.271] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:29.271] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:29.271] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:29.271] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:29.271] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:38.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/94066, l='ServerLevel[world]', x=823.68, y=63.41, z=1660.71], dimensionLocationPath overworld
+[04Jan2025 05:12:38.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/94066, l='ServerLevel[world]', x=823.68, y=63.41, z=1660.71] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e3b]
+[04Jan2025 05:12:38.712] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/94066, l='ServerLevel[world]', x=823.88, y=63.17, z=1659.83, removed=DISCARDED]
+[04Jan2025 05:12:42.062] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/95329, l='ServerLevel[world]', x=820.47, y=63.39, z=1656.49], dimensionLocationPath overworld
+[04Jan2025 05:12:42.062] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/95329, l='ServerLevel[world]', x=820.47, y=63.39, z=1656.49] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e3b]
+[04Jan2025 05:12:42.364] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/96579, l='ServerLevel[world]', x=820.68, y=63.33, z=1657.54], dimensionLocationPath overworld
+[04Jan2025 05:12:42.364] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/96579, l='ServerLevel[world]', x=820.68, y=63.33, z=1657.54] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e3b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@17461]
+[04Jan2025 05:12:42.447] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Air'/95329, l='ServerLevel[world]', x=821.05, y=63.51, z=1656.68, removed=DISCARDED]
+[04Jan2025 05:12:42.912] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/96579, l='ServerLevel[world]', x=820.56, y=63.00, z=1657.25, removed=DISCARDED]
+[04Jan2025 05:12:53.933] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/98014, l='ServerLevel[world]', x=819.59, y=63.02, z=1682.46], dimensionLocationPath overworld
+[04Jan2025 05:12:53.933] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/98014, l='ServerLevel[world]', x=819.59, y=63.02, z=1682.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e3b]
+[04Jan2025 05:12:53.989] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/99261, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[04Jan2025 05:12:53.989] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/99261, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e3b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@17ede]
+[04Jan2025 05:12:54.092] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/99261, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[04Jan2025 05:12:54.331] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/98014, l='ServerLevel[world]', x=819.38, y=62.73, z=1682.44]
+[04Jan2025 05:12:59.022] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:59.022] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:59.022] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:59.022] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:59.023] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:59.023] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:59.023] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:12:59.023] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:14:04.247] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:14:04.247] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:14:04.247] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:14:04.247] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:14:04.248] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:14:04.248] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:14:04.248] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:14:04.248] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:15:02.499] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:15:02.499] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:15:02.499] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:15:02.499] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:15:02.499] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:15:02.499] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:15:02.500] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[04Jan2025 05:15:02.500] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
