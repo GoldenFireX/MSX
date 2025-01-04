@@ -6883,77 +6883,89 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_ingredient": "2025-01-03 03:39:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_sweet_berries": "2025-01-03 03:39:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_item": "2025-01-03 03:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_item": "2025-01-03 03:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_item": "2025-01-03 03:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_item": "2025-01-03 03:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_item": "2025-01-03 03:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_item": "2025-01-03 03:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_item": "2025-01-03 03:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_item": "2025-01-03 03:40:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_any_ingredient": "2025-01-03 03:47:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 04:41:40 +0000"
+      "has_any_ingredient": "2025-01-03 03:47:06 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 03:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-03 03:47:06 +0000"
+    },
+    "done": true
   },
   "mcwwindows:recipes/diorite": {
     "criteria": {
@@ -6973,27 +6985,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/building_blocks/verglas_block": {
-    "criteria": {
-      "has_item": "2025-01-03 03:53:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-03 03:47:16 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:verglas": {
-    "criteria": {
-      "item": "2025-01-03 03:53:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2025-01-03 03:40:06 +0000"
     },
     "done": true
   },
@@ -7006,18 +7000,6 @@
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-03 03:47:16 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/sting": {
-    "criteria": {
-      "has_item": "2025-01-03 03:53:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
-    "criteria": {
-      "has_item": "2025-01-03 03:40:06 +0000"
     },
     "done": true
   },
@@ -7081,12 +7063,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2025-01-03 03:40:06 +0000"
-    },
-    "done": true
-  },
   "mcwstairs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-01-03 03:47:16 +0000"
@@ -7102,12 +7078,6 @@
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-03 03:47:16 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
-    "criteria": {
-      "has_item": "2025-01-03 03:40:06 +0000"
     },
     "done": true
   },
@@ -7129,27 +7099,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2025-01-03 03:39:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-03 03:47:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-03 03:47:16 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
-    "criteria": {
-      "has_sweet_berries": "2025-01-03 03:39:37 +0000"
     },
     "done": true
   },
@@ -7171,18 +7123,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
-    "criteria": {
-      "has_item": "2025-01-03 03:40:06 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/skofnung_stone": {
-    "criteria": {
-      "has_item": "2025-01-03 03:53:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-03 03:47:16 +0000"
@@ -7201,33 +7141,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/misc/verglas": {
-    "criteria": {
-      "has_item": "2025-01-03 03:53:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-03 03:47:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2025-01-03 03:40:06 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
     "criteria": {
       "has_diorite": "2025-01-03 03:47:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-03 03:47:06 +0000"
     },
     "done": true
   },
@@ -7237,21 +7153,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2025-01-03 03:40:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-03 03:47:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-01-03 03:47:06 +0000"
     },
     "done": true
   },
@@ -7261,11 +7165,107 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
+  "soulsweapons:recipes/building_blocks/verglas_block": {
     "criteria": {
-      "has_item": "2025-01-03 03:40:06 +0000"
+      "has_item": "2025-01-03 03:53:34 +0000"
     },
     "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2025-01-03 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2025-01-03 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2025-01-03 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2025-01-03 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 04:02:01 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
