@@ -8938,6 +8938,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-01-04 05:33:54 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/fiery_bean_seeds": {
     "criteria": {
       "has_item": "2025-01-04 04:59:44 +0000"
@@ -8965,6 +8971,12 @@
   "farmersdelight:recipes/food/beef_patty_from_smoking": {
     "criteria": {
       "beef_patty": "2025-01-04 04:50:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-01-04 05:33:54 +0000"
     },
     "done": true
   },
