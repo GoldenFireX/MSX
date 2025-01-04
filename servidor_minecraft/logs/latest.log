@@ -14955,3 +14955,8 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
 [04Jan2025 05:22:33.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws moved too quickly! -0.5503098767850361,0.16610926093821377,10.196368573595464
+[04Jan2025 05:40:37.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[04Jan2025 05:41:15.913] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=640, y=-17, z=1988}
+[04Jan2025 05:41:16.714] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=650, y=-49, z=2004}
+[04Jan2025 05:41:27.231] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=648, y=-16, z=2036}
+[04Jan2025 05:42:16.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=602, y=27, z=2095}

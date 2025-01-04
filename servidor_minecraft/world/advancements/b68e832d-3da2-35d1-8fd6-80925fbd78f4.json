@@ -8908,6 +8908,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-01-04 05:41:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/hamburger": {
     "criteria": {
       "has_beef_patty": "2025-01-04 04:51:35 +0000"
