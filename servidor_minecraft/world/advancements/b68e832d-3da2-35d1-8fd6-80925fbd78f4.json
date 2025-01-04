@@ -2466,6 +2466,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-01-04 05:12:38 +0000",
       "glow_berries": "2025-01-04 05:07:27 +0000",
       "tomato": "2025-01-04 04:47:38 +0000",
       "potato": "2025-01-04 05:00:06 +0000",
@@ -8871,6 +8872,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-01-04 05:13:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-04 05:20:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-04 05:13:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-01-04 04:58:01 +0000"
@@ -8880,6 +8899,12 @@
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-01-04 04:23:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-04 05:21:15 +0000"
     },
     "done": true
   },
@@ -8946,6 +8971,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-01-04 04:50:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-04 05:20:44 +0000"
     },
     "done": true
   },
