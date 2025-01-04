@@ -8847,6 +8847,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_packed_mud_stairs_from_stone_types_packed_mud_stonecutting": {
     "criteria": {
       "has_stone_types_packed_mud": "2025-01-04 06:19:15 +0000"
@@ -8880,6 +8892,12 @@
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-01-04 05:59:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
     },
     "done": true
   },
@@ -8931,9 +8949,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-01-04 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
     },
     "done": true
   },
@@ -8961,6 +8991,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-01-04 06:08:53 +0000"
@@ -8985,6 +9021,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_packed_mud_brick_slab_from_stone_types_packed_mud_stonecutting": {
     "criteria": {
       "has_stone_types_packed_mud": "2025-01-04 06:19:15 +0000"
@@ -9006,6 +9048,18 @@
   "create_dd:recipes/create_dd.palettes/cut_packed_mud_stairs_from_stone_types_packed_mud_stonecutting": {
     "criteria": {
       "has_stone_types_packed_mud": "2025-01-04 06:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
     },
     "done": true
   },
@@ -9039,6 +9093,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 05:58:57 +0000"
@@ -9048,6 +9108,12 @@
   "create_dd:recipes/create_dd.palettes/cut_packed_mud_brick_wall_from_stone_types_packed_mud_stonecutting": {
     "criteria": {
       "has_stone_types_packed_mud": "2025-01-04 06:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
     },
     "done": true
   },
@@ -9099,15 +9165,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2025-01-04 05:59:05 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_packed_mud_brick_stairs_from_stone_types_packed_mud_stonecutting": {
     "criteria": {
       "has_stone_types_packed_mud": "2025-01-04 06:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
     },
     "done": true
   },
@@ -9126,6 +9210,12 @@
   "create_dd:recipes/create_dd.palettes/cut_packed_mud_from_stone_types_packed_mud_stonecutting": {
     "criteria": {
       "has_stone_types_packed_mud": "2025-01-04 06:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
     },
     "done": true
   },
@@ -9180,6 +9270,18 @@
   "create_dd:recipes/create_dd.palettes/layered_packed_mud_from_stone_types_packed_mud_stonecutting": {
     "criteria": {
       "has_stone_types_packed_mud": "2025-01-04 06:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
     },
     "done": true
   },
@@ -9258,6 +9360,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-01-04 05:56:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 06:24:23 +0000"
     },
     "done": true
   },
