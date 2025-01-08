@@ -1768,3 +1768,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 08:02:37.325] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
 [08Jan2025 08:02:37.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [08Jan2025 08:10:27.815] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[08Jan2025 08:14:11.148] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/fluid/FluidHelper$FluidExchange
+[08Jan2025 08:18:12.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Organize-o-Tron]
+[08Jan2025 08:18:20.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
