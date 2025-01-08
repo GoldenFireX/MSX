@@ -1775,3 +1775,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 08:36:34.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
 [08Jan2025 08:36:34.905] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/49153, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
 [08Jan2025 08:39:03.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/53281, l='ServerLevel[world]', x=924.59, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
+[08Jan2025 08:41:35.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Dinner's Served!]
+[08Jan2025 08:42:57.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/57797, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[08Jan2025 08:44:31.729] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting immersive_aircraft/network/c2s/CommandMessage$Key
+[08Jan2025 08:44:31.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/57975, l='ServerLevel[world]', x=923.50, y=97.00, z=1644.50] died, message: 'Unemployed was killed'
+[08Jan2025 08:44:37.736] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/world/entity/eventlistener/ComboCounterHandleEvent$Causal
+[08Jan2025 08:47:10.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
+[08Jan2025 08:47:10.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[08Jan2025 08:47:16.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/100.114.191.123:52581] logged in with entity id 62610 at (838.0916532174979, 64.0, 1661.5165371515723)
+[08Jan2025 08:47:16.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[08Jan2025 08:47:16.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[08Jan2025 08:47:16.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[08Jan2025 08:47:16.304] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[08Jan2025 08:47:16.310] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[08Jan2025 08:47:16.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[08Jan2025 08:47:16.316] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[08Jan2025 08:47:16.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[08Jan2025 08:47:16.388] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[08Jan2025 08:47:25.247] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[08Jan2025 08:51:23.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [Steeped in Strength]
