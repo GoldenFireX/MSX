@@ -7453,6 +7453,7 @@
   "soulsweapons:all_weapons": {
     "criteria": {
       "guts": "2024-12-31 07:12:50 +0000",
+      "darkin_blade": "2025-01-08 08:36:55 +0000",
       "bluemoon_short": "2024-12-30 00:27:13 +0000"
     },
     "done": false
@@ -10304,6 +10305,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-01-08 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-01-08 08:35:18 +0000"
     },
     "done": true
   },

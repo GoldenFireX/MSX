@@ -1771,3 +1771,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 08:14:11.148] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/fluid/FluidHelper$FluidExchange
 [08Jan2025 08:18:12.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Organize-o-Tron]
 [08Jan2025 08:18:20.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[08Jan2025 08:36:34.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[08Jan2025 08:36:34.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[08Jan2025 08:36:34.905] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/49153, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
+[08Jan2025 08:39:03.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/53281, l='ServerLevel[world]', x=924.59, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
