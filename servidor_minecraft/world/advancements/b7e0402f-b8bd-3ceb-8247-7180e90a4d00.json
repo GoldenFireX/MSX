@@ -10525,6 +10525,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-01-09 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-01-09 03:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-01-09 03:58:23 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/forlorn_chestplate": {
     "criteria": {
       "has_item": "2025-01-09 03:36:35 +0000"
@@ -10570,6 +10588,12 @@
   "soulsweapons:recipes/combat/forlorn_leggings": {
     "criteria": {
       "has_item": "2025-01-09 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-09 03:53:32 +0000"
     },
     "done": true
   },

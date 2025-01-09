@@ -1804,3 +1804,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jan2025 03:41:30.361] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
 [09Jan2025 03:41:38.260] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [09Jan2025 03:41:39.979] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[09Jan2025 03:42:01.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Equestrian
+[09Jan2025 03:42:01.955] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[09Jan2025 03:42:04.947] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[09Jan2025 03:42:33.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35278, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
+[09Jan2025 03:43:59.100] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[09Jan2025 03:45:15.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36137, l='ServerLevel[world]', x=818.50, y=-256.00, z=1642.25] died, message: 'Unemployed was killed'
+[09Jan2025 03:45:15.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/100.111.137.60:58865] logged in with entity id 36139 at (1051.7864095709713, 109.0, 1649.2291769573146)
+[09Jan2025 03:45:15.668] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[09Jan2025 03:45:15.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[09Jan2025 03:45:15.676] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[09Jan2025 03:45:15.676] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[09Jan2025 03:45:15.680] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[09Jan2025 03:45:15.688] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[09Jan2025 03:45:15.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[09Jan2025 03:45:15.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[09Jan2025 03:45:15.864] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[09Jan2025 03:45:39.260] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[09Jan2025 03:45:47.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36364, l='ServerLevel[world]', x=917.28, y=-256.00, z=1647.28] died, message: 'Unemployed was killed'
+[09Jan2025 03:49:01.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Lorem Ipsum]
+[09Jan2025 03:49:04.732] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexmodguy/alexscaves/server/misc/CaveBookProgress$Subcategory
+[09Jan2025 03:51:21.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Lorem Ipsum]
+[09Jan2025 03:51:31.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [The Journey Begins]
+[09Jan2025 03:53:32.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Once Upon a Cave]
+[09Jan2025 03:53:46.087] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -1147 -56 2529 in 2s
+[09Jan2025 03:54:03.043] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 8396 -56 -4695 in 8s
+[09Jan2025 03:54:03.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[09Jan2025 03:54:10.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [The Journey Begins]
+[09Jan2025 04:01:40.551] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[09Jan2025 04:01:53.787] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[09Jan2025 04:01:53.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[09Jan2025 04:01:56.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[09Jan2025 04:02:19.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7825ms or 156 ticks behind
