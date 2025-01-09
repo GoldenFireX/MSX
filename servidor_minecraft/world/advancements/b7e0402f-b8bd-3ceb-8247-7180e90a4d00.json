@@ -7452,6 +7452,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "crucible_sword": "2025-01-09 03:34:43 +0000",
       "guts": "2024-12-31 07:12:50 +0000",
       "darkin_blade": "2025-01-08 08:36:55 +0000",
       "bluemoon_short": "2024-12-30 00:27:13 +0000"
@@ -10515,6 +10516,60 @@
   "soulsweapons:recipes/combat/withered_chest": {
     "criteria": {
       "has_item": "2025-01-08 08:51:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:hallowheart": {
+    "criteria": {
+      "items": "2025-01-09 03:36:51 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-09 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_boots": {
+    "criteria": {
+      "has_item": "2025-01-09 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-09 03:36:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bloodthirster": {
+    "criteria": {
+      "has_item": "2025-01-09 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-01-09 03:39:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_helmet": {
+    "criteria": {
+      "has_item": "2025-01-09 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-09 03:39:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_leggings": {
+    "criteria": {
+      "has_item": "2025-01-09 03:36:35 +0000"
     },
     "done": true
   },
