@@ -10526,6 +10526,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-09 04:15:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2025-01-09 04:04:00 +0000"
@@ -10559,6 +10565,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_glass": "2025-01-09 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-01-09 04:14:45 +0000"
     },
     "done": true
   },
@@ -10637,6 +10649,18 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_glass": "2025-01-09 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-01-09 04:14:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-01-09 04:14:45 +0000"
     },
     "done": true
   },
