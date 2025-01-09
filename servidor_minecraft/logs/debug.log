@@ -18697,3 +18697,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jan2025 04:30:20.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/76371, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
 [09Jan2025 04:30:20.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/76371, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
 [09Jan2025 04:30:50.169] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$BasementType
+[09Jan2025 04:33:36.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[09Jan2025 04:33:53.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[09Jan2025 04:34:00.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Kobold
+[09Jan2025 04:34:00.410] [Server thread/DEBUG] [tombstone/]: A new grave of the player ACUA-Ws was created at position [x:7057, y:-23, z:14032, dim:twilightforest:twilight_forest]
+[09Jan2025 04:34:00.416] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['ACUA-Ws'/36139, l='ServerLevel[world]', x=7057.93, y=-22.00, z=14032.50]
+[09Jan2025 04:34:00.420] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[09Jan2025 04:34:01.766] [Server thread/DEBUG] [twilightforest/]: Player ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c) respawned and received items held in storage
+[09Jan2025 04:34:01.936] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[09Jan2025 04:34:12.250] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[09Jan2025 04:34:20.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ACUA-Ws'/36139, l='ServerLevel[world]', x=7057.79, y=-22.13, z=14032.74], dimensionLocationPath twilight_forest
+[09Jan2025 04:34:20.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ACUA-Ws'/36139, l='ServerLevel[world]', x=7057.79, y=-22.13, z=14032.74] in list []
+[09Jan2025 04:35:05.206] [Server thread/DEBUG] [mixin/]: Mixing FillingBySpoutMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.spout.FillingBySpout
+[09Jan2025 04:35:05.207] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:FillingBySpoutMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Jan2025 04:35:24.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 04:35:24.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 04:35:24.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/80259, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[09Jan2025 04:35:24.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/80259, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[09Jan2025 04:35:24.745] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/80259, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[09Jan2025 04:36:08.190] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:36:08.190] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:36:08.190] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:36:08.190] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:36:08.190] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:36:08.190] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:36:08.190] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:36:08.190] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:37:00.596] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:37:00.596] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:37:00.596] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:37:00.596] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:37:00.596] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:37:00.596] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:37:00.596] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:37:00.596] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[09Jan2025 04:40:24.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 04:40:24.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 04:40:24.611] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/83394, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[09Jan2025 04:40:24.611] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/83394, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[09Jan2025 04:40:24.816] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/83394, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[09Jan2025 04:40:34.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/transport/BeltInventory$Ending
+[09Jan2025 04:42:55.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ACUA-Ws'/36139, l='ServerLevel[world]', x=7256.71, y=-2.46, z=13850.55]
+[09Jan2025 04:43:02.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ACUA-Ws'/36139, l='ServerLevel[world]', x=7256.70, y=-0.27, z=13823.73], dimensionLocationPath twilight_forest
+[09Jan2025 04:43:02.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ACUA-Ws'/36139, l='ServerLevel[world]', x=7256.70, y=-0.27, z=13823.73] in list []
+[09Jan2025 04:43:13.913] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ACUA-Ws'/36139, l='ServerLevel[world]', x=7257.16, y=-2.00, z=13792.39]
+[09Jan2025 04:43:20.049] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ACUA-Ws'/36139, l='ServerLevel[world]', x=7237.16, y=-0.38, z=13782.70], dimensionLocationPath twilight_forest
+[09Jan2025 04:43:20.049] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ACUA-Ws'/36139, l='ServerLevel[world]', x=7237.16, y=-0.38, z=13782.70] in list []
