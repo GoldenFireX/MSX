@@ -10670,5 +10670,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-09 06:45:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-01-09 06:51:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
