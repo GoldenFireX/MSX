@@ -1836,3 +1836,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jan2025 04:01:53.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
 [09Jan2025 04:01:56.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
 [09Jan2025 04:02:19.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7825ms or 156 ticks behind
+[09Jan2025 04:02:38.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4794ms or 95 ticks behind
+[09Jan2025 04:03:30.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Big Boy]
+[09Jan2025 04:03:55.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was shot by Bonescaller
+[09Jan2025 04:03:55.992] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[09Jan2025 04:03:58.067] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[09Jan2025 04:04:17.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[09Jan2025 04:05:05.315] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[09Jan2025 04:06:04.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Zombie Clown
+[09Jan2025 04:06:04.691] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[09Jan2025 04:06:10.066] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.

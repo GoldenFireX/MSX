@@ -5633,9 +5633,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2024-12-27 02:24:46 +0000"
+      "0": "2024-12-27 02:24:46 +0000",
+      "1": "2025-01-09 04:04:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_bastion": {
     "criteria": {
@@ -10525,15 +10526,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-01-09 04:04:00 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-01-09 03:54:10 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-01-09 04:04:00 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2025-01-09 03:49:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-01-09 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-01-09 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-01-09 04:04:00 +0000"
     },
     "done": true
   },
@@ -10585,9 +10616,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-01-09 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-01-09 04:04:00 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/forlorn_leggings": {
     "criteria": {
       "has_item": "2025-01-09 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-01-09 04:04:00 +0000"
     },
     "done": true
   },
