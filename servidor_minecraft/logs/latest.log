@@ -1980,3 +1980,31 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Jan2025 03:01:07.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Lifestealer
 [10Jan2025 03:01:07.329] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [10Jan2025 03:01:08.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[10Jan2025 03:02:10.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Lifestealer
+[10Jan2025 03:02:10.047] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[10Jan2025 03:02:11.342] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[10Jan2025 03:03:10.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/100.114.191.123:50263] logged in with entity id 40807 at (935.1251101767634, 107.0, 1647.2029984847375)
+[10Jan2025 03:03:10.453] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[10Jan2025 03:03:10.453] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[10Jan2025 03:03:10.454] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[10Jan2025 03:03:10.454] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[10Jan2025 03:03:10.456] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[10Jan2025 03:03:10.465] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[10Jan2025 03:03:10.465] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[10Jan2025 03:03:10.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[10Jan2025 03:03:10.813] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[10Jan2025 03:03:17.475] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[10Jan2025 03:03:33.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 withered away
+[10Jan2025 03:03:33.522] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[10Jan2025 03:03:34.775] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[10Jan2025 03:03:41.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Lifestealer
+[10Jan2025 03:03:41.064] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[10Jan2025 03:04:01.960] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[10Jan2025 03:04:22.887] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[10Jan2025 03:04:44.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 withered away whilst fighting Lifestealer
+[10Jan2025 03:04:44.305] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[10Jan2025 03:04:45.757] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[10Jan2025 03:04:53.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Lifestealer
+[10Jan2025 03:04:53.879] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[10Jan2025 03:04:55.151] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[10Jan2025 03:05:30.020] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
