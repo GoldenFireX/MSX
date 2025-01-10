@@ -10694,5 +10694,17 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-01-10 03:12:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-01-10 03:12:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

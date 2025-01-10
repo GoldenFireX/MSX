@@ -2008,3 +2008,23 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Jan2025 03:04:53.879] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [10Jan2025 03:04:55.151] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [10Jan2025 03:05:30.020] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[10Jan2025 03:12:52.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -0.21098711717570495,-10.421798989996262,-0.07549240002299484
+[10Jan2025 03:13:00.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/100.111.137.60:57490] logged in with entity id 66542 at (1049.5, 109.0, 1652.5)
+[10Jan2025 03:13:00.965] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[10Jan2025 03:13:00.966] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[10Jan2025 03:13:00.970] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[10Jan2025 03:13:00.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[10Jan2025 03:13:00.974] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[10Jan2025 03:13:00.980] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[10Jan2025 03:13:00.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[10Jan2025 03:13:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[10Jan2025 03:13:01.163] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[10Jan2025 03:13:51.722] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[10Jan2025 03:18:37.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[10Jan2025 03:19:02.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68267, l='ServerLevel[world]', x=924.20, y=-256.00, z=1642.70] died, message: 'Unemployed was killed'
+[10Jan2025 03:19:29.217] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 8403 -56 -4686 in 5s
+[10Jan2025 03:20:23.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Fallen Chaos Knight
+[10Jan2025 03:20:23.784] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[10Jan2025 03:21:13.453] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 2748 -56 -2537 in 2s
+[10Jan2025 03:21:27.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68810, l='ServerLevel[world]', x=922.50, y=97.56, z=1643.50] died, message: 'Unemployed was killed'
+[10Jan2025 03:21:43.433] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
