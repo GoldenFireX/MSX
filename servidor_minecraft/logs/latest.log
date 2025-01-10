@@ -1927,3 +1927,56 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Jan2025 02:48:52.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.107651717633189,-9.175871604777925,-0.10322432872317222
 [10Jan2025 02:49:09.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlock$CartAssemblerAction
 [10Jan2025 02:49:29.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[10Jan2025 02:52:42.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Timed out
+[10Jan2025 02:52:42.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[10Jan2025 02:52:42.563] [Netty Epoll Server IO #3/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda$36900/0x0000731857d655e8.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md9d7775$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23395!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md9d7775$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23395!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[10Jan2025 02:52:42.616] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jan2025 02:57:54.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 withered away
+[10Jan2025 02:57:54.421] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[10Jan2025 02:57:56.040] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[10Jan2025 02:58:55.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Bonescaller
+[10Jan2025 02:58:55.273] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[10Jan2025 02:58:56.907] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[10Jan2025 02:59:21.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Lifestealer
+[10Jan2025 02:59:21.523] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[10Jan2025 02:59:22.933] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[10Jan2025 02:59:34.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 withered away whilst fighting Lifestealer
+[10Jan2025 02:59:34.920] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[10Jan2025 02:59:36.315] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[10Jan2025 02:59:50.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 withered away whilst fighting Lifestealer
+[10Jan2025 02:59:50.530] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[10Jan2025 02:59:52.253] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[10Jan2025 02:59:59.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Lifestealer
+[10Jan2025 02:59:59.019] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[10Jan2025 03:00:00.654] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[10Jan2025 03:00:51.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37043, l='ServerLevel[world]', x=921.97, y=-256.00, z=1649.39] died, message: 'Unemployed was killed'
+[10Jan2025 03:01:07.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Lifestealer
+[10Jan2025 03:01:07.329] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[10Jan2025 03:01:08.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
