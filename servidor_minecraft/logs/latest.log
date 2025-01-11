@@ -2093,3 +2093,65 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [11Jan2025 04:44:15.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
 [11Jan2025 04:44:15.682] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [11Jan2025 04:44:28.172] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:44:32.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Returning Knight
+[11Jan2025 04:44:32.144] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[11Jan2025 04:44:33.518] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[11Jan2025 04:44:35.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[11Jan2025 04:46:07.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Returning Knight
+[11Jan2025 04:46:07.978] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[11Jan2025 04:46:09.370] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[11Jan2025 04:46:11.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was obliterated by Returning Knight
+[11Jan2025 04:46:11.939] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:46:13.618] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:46:24.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was obliterated by Returning Knight
+[11Jan2025 04:46:24.678] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:46:25.918] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:46:47.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [Last Arrival]
+[11Jan2025 04:46:53.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by ACUA-Ws
+[11Jan2025 04:46:53.379] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:46:55.150] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:47:06.058] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[11Jan2025 04:47:06.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[11Jan2025 04:47:13.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ACUA-Ws]
+[11Jan2025 04:47:36.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/105250, l='ServerLevel[world]', x=927.59, y=-256.00, z=1649.16] died, message: 'Unemployed was killed'
+[11Jan2025 04:47:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [3rd Time's the Charm!]
+[11Jan2025 04:48:00.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was obliterated by amigobuho360
+[11Jan2025 04:48:00.728] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[11Jan2025 04:48:02.311] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[11Jan2025 04:50:01.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Close Quarters]
+[11Jan2025 04:51:15.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109983, l='ServerLevel[world]', x=927.07, y=-256.00, z=1650.58] died, message: 'Unemployed was killed'
+[11Jan2025 04:51:44.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2028, y=2, z=2650}
+[11Jan2025 04:51:58.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[11Jan2025 04:52:01.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/100.114.191.123:60804] logged in with entity id 113863 at (922.0749999880791, 123.0, 1659.178814320534)
+[11Jan2025 04:52:01.126] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[11Jan2025 04:52:01.126] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[11Jan2025 04:52:01.126] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[11Jan2025 04:52:01.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[11Jan2025 04:52:01.133] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[11Jan2025 04:52:01.135] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[11Jan2025 04:52:01.135] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[11Jan2025 04:52:01.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[11Jan2025 04:52:01.252] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[11Jan2025 04:52:07.073] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[11Jan2025 04:52:10.540] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[11Jan2025 04:52:11.362] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1955, y=-42, z=2601}
+[11Jan2025 04:52:16.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1964, y=-49, z=2633}
+[11Jan2025 04:52:20.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7439ms or 148 ticks behind
+[11Jan2025 04:52:21.584] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/110469, l='ServerLevel[world]', x=922.49, y=-256.00, z=1660.22] died, message: 'Unemployed was killed'
+[11Jan2025 04:52:36.863] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[11Jan2025 04:52:36.863] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[11Jan2025 04:52:38.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3282ms or 65 ticks behind
+[11Jan2025 04:52:38.804] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[11Jan2025 04:52:38.805] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[11Jan2025 04:52:55.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[11Jan2025 04:52:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Restless Spirit
+[11Jan2025 04:52:59.775] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[11Jan2025 04:53:15.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Stay dead]
+[11Jan2025 04:53:17.251] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[11Jan2025 04:53:19.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[11Jan2025 04:53:44.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ACUA-Ws]
+[11Jan2025 04:53:45.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10999ms or 219 ticks behind
+[11Jan2025 04:53:55.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[11Jan2025 04:54:05.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Royal Zombie
+[11Jan2025 04:54:05.242] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[11Jan2025 04:54:06.848] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.

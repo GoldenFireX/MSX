@@ -5167,6 +5167,7 @@
       "crucible_sword": "2025-01-10 05:14:09 +0000",
       "bluemoon_short": "2024-12-29 06:12:02 +0000",
       "bloodthirster": "2025-01-10 03:59:50 +0000",
+      "nightfall": "2025-01-11 04:47:47 +0000",
       "bluemoon_great": "2024-12-31 02:18:33 +0000"
     },
     "done": false
@@ -11172,78 +11173,41 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "soulsweapons:nightfall": {
     "criteria": {
-      "requirement": "2025-01-11 04:42:55 +0000",
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
+      "weapon": "2025-01-11 04:47:47 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "soulsweapons:recipes/combat/arkenplate": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
+      "has_item": "2025-01-11 04:47:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "soulsweapons:returning_knight": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
+      "soulsweapons:returning_knight": "2025-01-11 04:46:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "soulsweapons:recipes/combat/moonstone_ring_left": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
+      "has_item": "2025-01-11 04:47:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "soulsweapons:recipes/combat/moonstone_ring_right": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
+      "has_item": "2025-01-11 04:47:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "lootr:25loot": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
+      "loot_stat": "2025-01-11 04:50:01 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 04:42:54 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
