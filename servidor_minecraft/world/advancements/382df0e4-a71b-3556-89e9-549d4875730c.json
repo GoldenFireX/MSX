@@ -8852,5 +8852,17 @@
     },
     "done": true
   },
+  "psg:verylittlechemist": {
+    "criteria": {
+      "verylittlechemist_0": "2025-01-11 05:00:17 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-01-11 04:53:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
