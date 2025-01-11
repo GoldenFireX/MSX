@@ -8846,5 +8846,11 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-11 03:54:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
