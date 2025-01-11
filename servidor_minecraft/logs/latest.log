@@ -1845,3 +1845,107 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 04:02:19.875] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [11Jan2025 04:02:19.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
 [11Jan2025 04:02:21.199] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:03:28.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[11Jan2025 04:03:28.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[11Jan2025 04:04:32.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/100.111.137.60:58743] logged in with entity id 24046 at (-1883.7263440308234, 91.0, 2915.3787048912095)
+[11Jan2025 04:04:32.633] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[11Jan2025 04:04:32.637] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[11Jan2025 04:04:32.640] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[11Jan2025 04:04:32.640] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[11Jan2025 04:04:32.644] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[11Jan2025 04:04:32.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[11Jan2025 04:04:32.649] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[11Jan2025 04:04:32.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[11Jan2025 04:04:32.703] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[11Jan2025 04:04:55.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/100.81.26.21:59628] logged in with entity id 24084 at (-1884.890118859579, 89.7531999805212, 2898.385366995275)
+[11Jan2025 04:04:55.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[11Jan2025 04:04:55.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[11Jan2025 04:04:55.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[11Jan2025 04:04:55.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[11Jan2025 04:04:55.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[11Jan2025 04:04:55.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[11Jan2025 04:04:55.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[11Jan2025 04:04:55.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[11Jan2025 04:04:55.552] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[11Jan2025 04:04:57.495] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:05:01.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
+[11Jan2025 04:05:01.503] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:05:11.472] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[11Jan2025 04:05:18.367] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:07:50.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was blown up by Skeleton Creeper
+[11Jan2025 04:07:50.825] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:07:52.419] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:09:38.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Returning Knight
+[11Jan2025 04:09:38.430] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:09:39.751] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:10:00.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Returning Knight
+[11Jan2025 04:10:00.139] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:10:01.933] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:10:12.014] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[11Jan2025 04:10:34.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Returning Knight
+[11Jan2025 04:10:34.085] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:10:35.374] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:12:01.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Timed out
+[11Jan2025 04:12:01.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
+[11Jan2025 04:12:08.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Returning Knight
+[11Jan2025 04:12:08.619] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:12:10.100] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:12:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
+[11Jan2025 04:12:29.418] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:12:30.901] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:12:44.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
+[11Jan2025 04:12:44.118] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:12:45.661] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:13:26.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Returning Knight
+[11Jan2025 04:13:26.997] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:13:28.419] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:14:24.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[11Jan2025 04:14:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[11Jan2025 04:15:52.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/100.81.26.21:59776] logged in with entity id 37555 at (-1881.8533002888971, 96.25220334025373, 2886.07700164623)
+[11Jan2025 04:15:52.436] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[11Jan2025 04:15:52.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[11Jan2025 04:15:52.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[11Jan2025 04:15:52.438] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[11Jan2025 04:15:52.439] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[11Jan2025 04:15:52.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[11Jan2025 04:15:52.460] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[11Jan2025 04:15:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[11Jan2025 04:15:52.533] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[11Jan2025 04:15:54.413] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:16:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Returning Knight
+[11Jan2025 04:16:15.331] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:16:17.733] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:17:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Returning Knight
+[11Jan2025 04:17:57.019] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:17:58.450] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:18:37.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Returning Knight
+[11Jan2025 04:18:37.071] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:18:38.559] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:19:36.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
+[11Jan2025 04:19:36.616] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:19:37.914] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:19:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
+[11Jan2025 04:19:57.873] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:19:59.148] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:20:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Returning Knight
+[11Jan2025 04:20:29.577] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:20:30.910] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:20:54.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[11Jan2025 04:20:54.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[11Jan2025 04:22:04.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/100.81.26.21:59883] logged in with entity id 50482 at (-1888.0252088797126, 89.02442408821369, 2898.371156904685)
+[11Jan2025 04:22:04.688] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[11Jan2025 04:22:04.688] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[11Jan2025 04:22:04.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[11Jan2025 04:22:04.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[11Jan2025 04:22:04.691] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[11Jan2025 04:22:04.697] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[11Jan2025 04:22:04.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[11Jan2025 04:22:04.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[11Jan2025 04:22:04.798] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[11Jan2025 04:22:06.621] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:22:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
+[11Jan2025 04:22:11.736] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:22:28.495] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:23:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
+[11Jan2025 04:23:01.452] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:23:02.784] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
