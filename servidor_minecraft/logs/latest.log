@@ -1949,3 +1949,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 04:23:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
 [11Jan2025 04:23:01.452] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [11Jan2025 04:23:02.784] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:23:42.907] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2114, y=-8, z=2767}
+[11Jan2025 04:23:47.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[11Jan2025 04:25:43.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was obliterated by Returning Knight
+[11Jan2025 04:25:43.966] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:25:45.294] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:26:06.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
+[11Jan2025 04:26:06.491] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:26:07.772] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:26:56.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was obliterated by Returning Knight
+[11Jan2025 04:26:56.680] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:26:58.054] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:27:07.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/100.111.137.60:50244] logged in with entity id 58377 at (-1883.7263440308234, 91.0, 2915.3787048912095)
+[11Jan2025 04:27:07.100] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[11Jan2025 04:27:07.101] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[11Jan2025 04:27:07.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[11Jan2025 04:27:07.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[11Jan2025 04:27:07.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[11Jan2025 04:27:07.119] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[11Jan2025 04:27:07.120] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[11Jan2025 04:27:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[11Jan2025 04:27:07.300] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[11Jan2025 04:27:22.860] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[11Jan2025 04:27:31.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
+[11Jan2025 04:27:31.423] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:27:33.277] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:28:14.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Remnant
+[11Jan2025 04:28:14.874] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:28:16.300] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:29:40.548] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[11Jan2025 04:31:52.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Returning Knight
+[11Jan2025 04:31:52.831] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[11Jan2025 04:31:54.533] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[11Jan2025 04:31:59.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ACUA-Ws]
+[11Jan2025 04:32:47.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Like a bird]
+[11Jan2025 04:33:23.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by Returning Knight
+[11Jan2025 04:33:23.739] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[11Jan2025 04:33:25.350] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[11Jan2025 04:33:31.107] [Netty Epoll Server IO #2/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda$36438/0x00007a20d7d09440.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mda61ec9$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mda61ec9$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[11Jan2025 04:33:31.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[11Jan2025 04:33:31.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
