@@ -10908,6 +10908,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:obtain_both_weapons": {
+    "criteria": {
+      "obtain_both_weapons_0": "2025-01-11 05:16:44 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-01-11 05:03:29 +0000"
