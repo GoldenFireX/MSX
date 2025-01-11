@@ -20948,3 +20948,410 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [11Jan2025 05:25:16.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
 [11Jan2025 05:25:43.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [11Jan2025 05:26:09.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Jan2025 05:26:26.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[11Jan2025 05:26:38.690] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[11Jan2025 05:26:39.822] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[11Jan2025 05:26:39.822] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[11Jan2025 05:26:39.823] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[11Jan2025 05:26:39.910] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[11Jan2025 05:26:41.507] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[11Jan2025 05:26:41.508] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[11Jan2025 05:26:41.508] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[11Jan2025 05:26:42.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[11Jan2025 05:26:49.300] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle_spawn
+[11Jan2025 05:26:56.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.008216274655297,0.08680257878140196,-9.269005310617786
+[11Jan2025 05:26:56.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.393463842931851,0.09054072911433764,-9.982006019939263
+[11Jan2025 05:26:57.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[11Jan2025 05:26:57.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
+[11Jan2025 05:26:57.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[11Jan2025 05:26:57.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[11Jan2025 05:26:57.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[11Jan2025 05:26:57.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[11Jan2025 05:26:57.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[11Jan2025 05:26:57.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[11Jan2025 05:26:57.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[11Jan2025 05:26:57.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[11Jan2025 05:26:57.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[11Jan2025 05:26:57.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[11Jan2025 05:26:57.490] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[11Jan2025 05:26:57.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[11Jan2025 05:26:57.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[11Jan2025 05:26:57.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[11Jan2025 05:26:57.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[11Jan2025 05:26:57.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[11Jan2025 05:26:57.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[11Jan2025 05:26:57.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[11Jan2025 05:26:57.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[11Jan2025 05:26:57.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[11Jan2025 05:26:57.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[11Jan2025 05:26:57.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[11Jan2025 05:26:57.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[11Jan2025 05:26:57.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[11Jan2025 05:26:57.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[11Jan2025 05:26:57.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[11Jan2025 05:26:57.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[11Jan2025 05:26:57.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[11Jan2025 05:26:57.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[11Jan2025 05:26:57.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[11Jan2025 05:26:57.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[11Jan2025 05:26:57.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[11Jan2025 05:26:57.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[11Jan2025 05:26:57.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[11Jan2025 05:26:57.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[11Jan2025 05:26:57.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[11Jan2025 05:26:57.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[11Jan2025 05:26:57.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[11Jan2025 05:26:57.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[11Jan2025 05:26:57.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[11Jan2025 05:26:57.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[11Jan2025 05:26:57.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.008222334769471,0.008990082736033855,-9.269016526461428
+[11Jan2025 05:26:57.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.393470266931672,0.009368879147814368,-9.982017909248952
+[11Jan2025 05:26:57.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.778718206305257,0.0097185334383596,-10.695019305382857
+[11Jan2025 05:26:57.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 6.1639661526476175,0.010041266329579912,-11.408020714414306
+[11Jan2025 05:27:00.496] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[11Jan2025 05:27:01.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19575ms or 391 ticks behind
+[11Jan2025 05:27:16.649] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/143601, l='ServerLevel[world]', x=1279.38, y=50.60, z=863.50], dimensionLocationPath overworld
+[11Jan2025 05:27:16.649] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/143601, l='ServerLevel[world]', x=1279.38, y=50.60, z=863.50] in list []
+[11Jan2025 05:27:16.915] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1327, y=33, z=872}
+[11Jan2025 05:27:17.219] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[11Jan2025 05:27:17.219] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[11Jan2025 05:27:17.219] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[11Jan2025 05:27:17.220] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[11Jan2025 05:27:19.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[11Jan2025 05:27:20.915] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[11Jan2025 05:27:21.010] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/143601, l='ServerLevel[world]', x=1279.35, y=50.80, z=863.47]
+[11Jan2025 05:27:22.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[11Jan2025 05:27:22.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[11Jan2025 05:27:22.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[11Jan2025 05:27:22.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_1
+[11Jan2025 05:27:22.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[11Jan2025 05:27:30.094] [Worker-Main-47/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1187, y=-12, z=767} at Coffin with:graveyard:chests/crypt_loot
+[11Jan2025 05:27:31.258] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1260, y=-22, z=783}
+[11Jan2025 05:27:35.474] [Worker-Main-127/DEBUG] [mixin/]: Mixing NetherFortressPiecesMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.structures.NetherFortressPieces
+[11Jan2025 05:27:35.595] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[11Jan2025 05:27:35.685] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[11Jan2025 05:27:35.704] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[11Jan2025 05:27:35.928] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[11Jan2025 05:27:36.032] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[11Jan2025 05:27:36.051] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[11Jan2025 05:27:47.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31447ms or 628 ticks behind
+[11Jan2025 05:27:49.646] [Worker-Main-127/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1330, y=66, z=678} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:27:50.824] [Worker-Main-127/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=1261, y=-36, z=684} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:28:04.684] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1221, y=-43, z=651}
+[11Jan2025 05:28:07.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[11Jan2025 05:28:07.271] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin2
+[11Jan2025 05:28:17.239] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-375, y=33, z=-885}
+[11Jan2025 05:28:17.256] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-375, y=32, z=-885}
+[11Jan2025 05:28:17.256] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=46, z=-881}
+[11Jan2025 05:28:17.257] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=68, z=-881}
+[11Jan2025 05:28:17.742] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-813}
+[11Jan2025 05:28:17.744] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-813}
+[11Jan2025 05:28:17.746] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-817}
+[11Jan2025 05:28:19.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[11Jan2025 05:28:21.472] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[11Jan2025 05:28:22.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20058ms or 401 ticks behind
+[11Jan2025 05:28:26.326] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-389, y=46, z=-874}
+[11Jan2025 05:28:26.327] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=61, z=-875}
+[11Jan2025 05:28:26.327] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=62, z=-875}
+[11Jan2025 05:28:26.328] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=61, z=-877}
+[11Jan2025 05:28:26.328] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=62, z=-877}
+[11Jan2025 05:28:26.329] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-389, y=68, z=-874}
+[11Jan2025 05:28:26.422] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=46, z=-867}
+[11Jan2025 05:28:26.423] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=47, z=-874}
+[11Jan2025 05:28:26.425] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=68, z=-867}
+[11Jan2025 05:28:26.426] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-375, y=68, z=-874}
+[11Jan2025 05:28:29.207] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1280, y=-38, z=558}
+[11Jan2025 05:28:29.502] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=30, z=-819}
+[11Jan2025 05:28:29.502] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=26, z=-813}
+[11Jan2025 05:28:29.503] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-813}
+[11Jan2025 05:28:29.504] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-813}
+[11Jan2025 05:28:29.504] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-819}
+[11Jan2025 05:28:30.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has made the advancement [Hidden in the Depths]
+[11Jan2025 05:28:31.250] [Worker-Main-47/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[11Jan2025 05:28:31.730] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=27, z=-756}
+[11Jan2025 05:28:31.731] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=27, z=-759}
+[11Jan2025 05:28:32.309] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1277, y=26, z=558}
+[11Jan2025 05:28:32.838] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=28, z=-759}
+[11Jan2025 05:28:32.838] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=28, z=-760}
+[11Jan2025 05:28:35.164] [Worker-Main-47/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:snowgolemboss at BlockPos{x=1435, y=77, z=709} at Chest with:minecraft:chests/village/village_snowy_house
+[11Jan2025 05:28:35.165] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-313, y=27, z=-819}
+[11Jan2025 05:28:35.165] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=27, z=-819}
+[11Jan2025 05:28:36.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[11Jan2025 05:28:39.781] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=27, z=-759}
+[11Jan2025 05:28:39.782] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=28, z=-759}
+[11Jan2025 05:28:39.782] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=28, z=-760}
+[11Jan2025 05:28:39.805] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=27, z=-756}
+[11Jan2025 05:28:39.833] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-817}
+[11Jan2025 05:28:39.900] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=27, z=-812}
+[11Jan2025 05:28:39.901] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=27, z=-811}
+[11Jan2025 05:28:39.914] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-311, y=27, z=-810}
+[11Jan2025 05:28:39.914] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=27, z=-810}
+[11Jan2025 05:28:39.915] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=27, z=-813}
+[11Jan2025 05:28:39.970] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-212, y=30, z=-818}
+[11Jan2025 05:28:42.717] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_04
+[11Jan2025 05:28:43.020] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1251, y=-20, z=520}
+[11Jan2025 05:28:46.374] [Worker-Main-127/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=1211, y=-25, z=521} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:28:48.215] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1424, y=-25, z=722}
+[11Jan2025 05:28:52.587] [Worker-Main-76/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=37, z=-882}
+[11Jan2025 05:28:53.057] [Worker-Main-76/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-813}
+[11Jan2025 05:28:53.058] [Worker-Main-76/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-813}
+[11Jan2025 05:28:53.127] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-818}
+[11Jan2025 05:28:53.131] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=31, z=-819}
+[11Jan2025 05:28:53.177] [Worker-Main-76/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=27, z=-813}
+[11Jan2025 05:28:53.210] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=27, z=-818}
+[11Jan2025 05:28:53.211] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=27, z=-818}
+[11Jan2025 05:28:57.166] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[11Jan2025 05:28:58.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20585ms or 411 ticks behind
+[11Jan2025 05:29:11.877] [Worker-Main-76/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1305, y=-33, z=429} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:29:12.887] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[11Jan2025 05:29:13.927] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1427, y=-1, z=456}
+[11Jan2025 05:29:16.321] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1280, y=32, z=424}
+[11Jan2025 05:29:16.334] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[11Jan2025 05:29:20.167] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graveyard_large
+[11Jan2025 05:29:20.535] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[11Jan2025 05:29:28.471] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[11Jan2025 05:29:28.502] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[11Jan2025 05:29:35.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21568ms or 431 ticks behind
+[11Jan2025 05:29:39.805] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[11Jan2025 05:29:47.017] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[11Jan2025 05:29:47.039] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[11Jan2025 05:29:47.073] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[11Jan2025 05:29:47.111] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[11Jan2025 05:29:47.135] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[11Jan2025 05:29:47.160] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[11Jan2025 05:29:47.210] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[11Jan2025 05:29:47.225] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[11Jan2025 05:29:47.243] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[11Jan2025 05:29:47.260] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[11Jan2025 05:29:47.277] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[11Jan2025 05:29:47.969] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[11Jan2025 05:29:50.709] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[11Jan2025 05:29:54.548] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[11Jan2025 05:29:55.905] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pillar1
+[11Jan2025 05:29:58.539] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_castle_small
+[11Jan2025 05:29:58.585] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[11Jan2025 05:30:03.014] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[11Jan2025 05:30:03.332] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1345, y=25, z=282}
+[11Jan2025 05:30:07.417] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[11Jan2025 05:30:07.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18000ms or 360 ticks behind
+[11Jan2025 05:30:18.386] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[11Jan2025 05:30:18.815] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/mushroom_well
+[11Jan2025 05:30:19.253] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[11Jan2025 05:30:30.827] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[11Jan2025 05:30:36.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 05:30:36.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 05:30:36.769] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/146525, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[11Jan2025 05:30:36.769] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/146525, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[11Jan2025 05:30:37.062] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/146525, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[11Jan2025 05:30:37.145] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/146700, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[11Jan2025 05:30:37.145] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/146700, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[11Jan2025 05:30:37.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/146700, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[11Jan2025 05:30:37.447] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/146875, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[11Jan2025 05:30:37.448] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/146875, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[11Jan2025 05:30:38.602] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/146875, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[11Jan2025 05:30:38.795] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/147053, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[11Jan2025 05:30:38.795] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/147053, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[11Jan2025 05:30:39.008] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/147053, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[11Jan2025 05:30:41.419] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_05
+[11Jan2025 05:30:41.961] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[11Jan2025 05:30:45.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22644ms or 452 ticks behind
+[11Jan2025 05:30:46.790] [Worker-Main-47/DEBUG] [ModernFix/]: Structure mvs:houses/desert_house is being run through DFU (hash f87116c7f1a81cbdd101948a22c4590de91125e497d31668d80ccd1b83c2a7a7), this will cause launch time delays
+[11Jan2025 05:30:57.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1544, y=-3, z=327}
+[11Jan2025 05:30:59.410] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[11Jan2025 05:31:02.359] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1555, y=36, z=190}
+[11Jan2025 05:31:04.719] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[11Jan2025 05:31:06.912] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[11Jan2025 05:31:08.898] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1327, y=-49, z=190}
+[11Jan2025 05:31:11.658] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1552, y=-54, z=281}
+[11Jan2025 05:31:12.022] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[11Jan2025 05:31:12.179] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[11Jan2025 05:31:12.296] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[11Jan2025 05:31:12.474] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[11Jan2025 05:31:12.546] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[11Jan2025 05:31:14.837] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1578, y=31, z=183}
+[11Jan2025 05:31:17.738] [Worker-Main-40/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=1352, y=140, z=139} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:31:21.141] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[11Jan2025 05:31:24.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23699ms or 473 ticks behind
+[11Jan2025 05:31:26.388] [Worker-Main-76/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1606, y=-34, z=143} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:31:28.263] [Worker-Main-47/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1609, y=40, z=402} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:31:28.942] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1597, y=20, z=330}
+[11Jan2025 05:31:46.819] [Worker-Main-47/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=1275, y=18, z=299} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:31:49.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1295, y=-10, z=266}
+[11Jan2025 05:32:02.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 3.384342752130351,3.8219459210252182,-8.831527586233307
+[11Jan2025 05:32:02.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 3.512822021593365,3.9651019611580978,-9.166797473424225
+[11Jan2025 05:32:02.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 3.6371277169978384,4.100929841058814,-9.491176314087312
+[11Jan2025 05:32:02.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 3.757380927404256,4.2296140727705165,-9.804980093124186
+[11Jan2025 05:32:02.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 3.87370118293984,4.351363741657167,-10.108520727434154
+[11Jan2025 05:32:02.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 3.986206179734154,4.466406673362798,-10.402105348029437
+[11Jan2025 05:32:02.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.095011556726604,4.574984448706402,-10.686035717650583
+[11Jan2025 05:32:02.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.2002307171119355,4.6773481603947005,-10.960607764785294
+[11Jan2025 05:32:02.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.301974688074324,4.773754820281454,-11.226111217661384
+[11Jan2025 05:32:02.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.400352013277825,4.864464332830977,-11.482829323688975
+[11Jan2025 05:32:02.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.495468673424284,4.949736961718202,-11.731038642193823
+[11Jan2025 05:32:02.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.587428030704814,5.029831226655148,-11.971008899404836
+[11Jan2025 05:32:02.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.676330793583702,5.105002172237249,-12.203002896596189
+[11Jan2025 05:32:02.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.76227499883862,5.175499959477833,-12.427276463206425
+[11Jan2025 05:32:02.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.845356008160024,5.241568736199696,-12.644078447965484
+[11Jan2025 05:32:02.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.925666517025775,5.303445747056173,-12.853650742057795
+[11Jan2025 05:32:02.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.003296573843727,5.361360649943151,-13.056228329071274
+[11Jan2025 05:32:02.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.078333607634477,5.415535008229085,-13.252039357233144
+[11Jan2025 05:32:03.037] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1485, y=-20, z=111}
+[11Jan2025 05:32:07.889] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1432, y=-20, z=106}
+[11Jan2025 05:32:08.098] [Worker-Main-76/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1575, y=102, z=62} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:32:08.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28860ms or 577 ticks behind
+[11Jan2025 05:32:09.904] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[11Jan2025 05:32:14.908] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1624, y=-9, z=278}
+[11Jan2025 05:32:15.370] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1613, y=29, z=181}
+[11Jan2025 05:32:16.111] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1617, y=-13, z=378}
+[11Jan2025 05:32:42.444] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[11Jan2025 05:32:44.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21355ms or 427 ticks behind
+[11Jan2025 05:32:57.141] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/mossy_ruin/main
+[11Jan2025 05:32:57.192] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/tent
+[11Jan2025 05:32:57.248] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[11Jan2025 05:33:03.231] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove1
+[11Jan2025 05:33:10.643] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1411, y=11, z=-41}
+[11Jan2025 05:33:20.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20575ms or 411 ticks behind
+[11Jan2025 05:33:24.666] [Worker-Main-76/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1526, y=-1, z=-138} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:33:25.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1556, y=22, z=-119}
+[11Jan2025 05:33:26.536] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1606, y=-17, z=-123}
+[11Jan2025 05:33:34.074] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond2
+[11Jan2025 05:33:34.532] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[11Jan2025 05:33:34.587] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[11Jan2025 05:33:34.621] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[11Jan2025 05:33:34.646] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house1
+[11Jan2025 05:33:37.847] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower3
+[11Jan2025 05:33:37.887] [Worker-Main-76/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house3 is being run through DFU (hash cede5f78d3c091ad7f58fb27463bcfe1aaf648c006c206d5a2e7b6899207a004), this will cause launch time delays
+[11Jan2025 05:33:41.817] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[11Jan2025 05:33:41.869] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[11Jan2025 05:33:42.004] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[11Jan2025 05:33:42.040] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[11Jan2025 05:33:42.134] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[11Jan2025 05:33:48.001] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[11Jan2025 05:33:48.582] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[11Jan2025 05:33:48.756] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[11Jan2025 05:33:53.282] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[11Jan2025 05:33:56.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21457ms or 429 ticks behind
+[11Jan2025 05:33:57.616] [Worker-Main-76/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=1705, y=-13, z=-110} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:34:01.091] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1682, y=21, z=-163}
+[11Jan2025 05:34:05.470] [Worker-Main-76/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[11Jan2025 05:34:16.045] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[11Jan2025 05:34:19.161] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[11Jan2025 05:34:26.191] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/statue1
+[11Jan2025 05:34:26.830] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1718, y=29, z=-334}
+[11Jan2025 05:34:30.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18668ms or 373 ticks behind
+[11Jan2025 05:34:31.203] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[11Jan2025 05:34:34.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/148601, l='ServerLevel[world]', x=923.50, y=97.00, z=1644.50] died, message: 'Unemployed was killed'
+[11Jan2025 05:34:37.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[11Jan2025 05:34:37.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_2
+[11Jan2025 05:34:37.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_0
+[11Jan2025 05:34:39.722] [Server thread/INFO] [do_a_barrel_roll/]: Client of ACUA-Ws accepted server config.
+[11Jan2025 05:34:39.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 3.6448446700098884,-3.2421866134768607E-4,-9.426979266495152
+[11Jan2025 05:34:39.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 3.847573164867299,-3.2742184245648787E-4,-9.921747971497837
+[11Jan2025 05:34:39.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.054690403128916,-3.30453134893105E-4,-10.424623864341868
+[11Jan2025 05:34:39.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.265639603018826,-3.3332594827584217E-4,-10.93552058300088
+[11Jan2025 05:34:39.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.479956883969862,-3.360526478104475E-4,-11.454320395003265
+[11Jan2025 05:34:39.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.697258985744156,-3.386446354340933E-4,-11.980879725443287
+[11Jan2025 05:34:39.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.917234717191604,-3.411124247634234E-4,-12.515033071107496
+[11Jan2025 05:34:39.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.139627664691261,-3.434657101308858E-4,-13.056600416836261
+[11Jan2025 05:34:39.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.3642281078775795,-3.457134302777831E-4,-13.605390732654598
+[11Jan2025 05:34:39.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.590863225130761,-3.4786382718721143E-4,-14.16120606477108
+[11Jan2025 05:34:39.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.819393397787735,-3.499245002274165E-4,-14.723843089826744
+[11Jan2025 05:34:39.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 6.04970650777318,-3.5190245623084593E-4,-15.293095398776018
+[11Jan2025 05:34:50.211] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[11Jan2025 05:34:52.418] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue_small
+[11Jan2025 05:34:52.481] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting immersive_aircraft/network/c2s/CommandMessage$Key
+[11Jan2025 05:34:53.832] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[11Jan2025 05:34:53.936] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[11Jan2025 05:34:54.165] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[11Jan2025 05:34:54.243] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[11Jan2025 05:34:54.323] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[11Jan2025 05:34:54.364] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[11Jan2025 05:34:54.390] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[11Jan2025 05:34:54.413] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[11Jan2025 05:34:54.491] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[11Jan2025 05:34:54.558] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[11Jan2025 05:34:54.581] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[11Jan2025 05:34:54.694] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[11Jan2025 05:34:54.716] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[11Jan2025 05:34:54.741] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[11Jan2025 05:34:54.769] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[11Jan2025 05:34:54.797] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[11Jan2025 05:34:54.824] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[11Jan2025 05:34:54.845] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[11Jan2025 05:34:54.865] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[11Jan2025 05:34:54.897] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[11Jan2025 05:34:54.937] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[11Jan2025 05:34:54.966] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[11Jan2025 05:34:59.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14876ms or 297 ticks behind
+[11Jan2025 05:35:09.370] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1644, y=22, z=-407}
+[11Jan2025 05:35:16.792] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/bee_dome
+[11Jan2025 05:35:18.849] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1787, y=-33, z=-357}
+[11Jan2025 05:35:23.474] [Worker-Main-47/DEBUG] [ModernFix/]: Structure mvs:stall/pink_stall is being run through DFU (hash 34dab6e994f2175cbd6332f3523f775577eff4ed2f982023274e7c65f5448fa3), this will cause launch time delays
+[11Jan2025 05:35:23.736] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stall/blue_stall
+[11Jan2025 05:35:23.998] [Worker-Main-47/DEBUG] [ModernFix/]: Structure mvs:stall/orange_stall is being run through DFU (hash 02213f8f276c2034be80459202bbe32672bcd03df26014bd121d603165d61d84), this will cause launch time delays
+[11Jan2025 05:35:24.245] [Worker-Main-47/DEBUG] [ModernFix/]: Structure mvs:stall/red_stall is being run through DFU (hash c9f8ba5565cafa2ee56d37594a372700c101eac10a42d8d3560edf9a75f97337), this will cause launch time delays
+[11Jan2025 05:35:24.987] [Worker-Main-127/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[11Jan2025 05:35:26.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11802ms or 236 ticks behind
+[11Jan2025 05:35:30.549] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[11Jan2025 05:35:39.866] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[11Jan2025 05:35:50.810] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
+[11Jan2025 05:35:51.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9409ms or 188 ticks behind
+[11Jan2025 05:35:53.127] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1848, y=-33, z=-450}
+[11Jan2025 05:35:53.909] [Worker-Main-127/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1864, y=-30, z=-381} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:35:53.991] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1845, y=25, z=-461}
+[11Jan2025 05:35:54.746] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1851, y=-25, z=-406}
+[11Jan2025 05:35:57.691] [Worker-Main-47/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=1778, y=-28, z=-599} at Chest with:minecraft:chests/simple_dungeon
+[11Jan2025 05:36:04.716] [Worker-Main-127/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[11Jan2025 05:36:09.591] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1820, y=-38, z=-600}
+[11Jan2025 05:36:14.906] [Worker-Main-127/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[11Jan2025 05:36:18.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12358ms or 247 ticks behind
+[11Jan2025 05:36:18.729] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin1
+[11Jan2025 05:36:20.965] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/150258, l='ServerLevel[world]', x=1841.56, y=-2.86, z=-608.53], dimensionLocationPath overworld
+[11Jan2025 05:36:20.965] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/150258, l='ServerLevel[world]', x=1841.56, y=-2.86, z=-608.53] in list []
+[11Jan2025 05:36:21.073] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/150427, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[11Jan2025 05:36:21.074] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/150427, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@24af2]
+[11Jan2025 05:36:21.235] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/150427, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[11Jan2025 05:36:22.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 3.8720448569147266,-4.030620432927549,-8.343505367968362
+[11Jan2025 05:36:22.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.1471345210586605,-4.296370941930661,-8.936270219861456
+[11Jan2025 05:36:22.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.417936425962125,-4.5531412794648105,-9.519795782364213
+[11Jan2025 05:36:22.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.6839479174916505,-4.800448822131457,-10.092998933428305
+[11Jan2025 05:36:22.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 4.944767521664971,-5.037967545188621,-10.655014574727204
+[11Jan2025 05:36:22.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.200080562544599,-5.265503863810565,-11.205164640425494
+[11Jan2025 05:36:24.402] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/150684, l='ServerLevel[world]', x=1887.74, y=22.15, z=-560.54], dimensionLocationPath overworld
+[11Jan2025 05:36:24.402] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/150684, l='ServerLevel[world]', x=1887.74, y=22.15, z=-560.54] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@24af2]
+[11Jan2025 05:36:30.359] [Worker-Main-76/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower2
+[11Jan2025 05:36:31.282] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/150258, l='ServerLevel[world]', x=1841.66, y=-2.66, z=-608.51]
+[11Jan2025 05:36:31.477] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/150258, l='ServerLevel[world]', x=1842.09, y=-2.13, z=-608.37], dimensionLocationPath overworld
+[11Jan2025 05:36:31.477] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/150258, l='ServerLevel[world]', x=1842.09, y=-2.13, z=-608.37] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@24c9c]
+[11Jan2025 05:36:31.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[11Jan2025 05:36:31.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_4
+[11Jan2025 05:36:32.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_0
+[11Jan2025 05:36:32.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_3
+[11Jan2025 05:36:32.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_4
+[11Jan2025 05:36:32.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0
+[11Jan2025 05:36:32.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0
+[11Jan2025 05:36:32.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_6
+[11Jan2025 05:36:32.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0
+[11Jan2025 05:36:32.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_5
+[11Jan2025 05:36:32.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_2
+[11Jan2025 05:36:32.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_2
+[11Jan2025 05:36:32.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_3
+[11Jan2025 05:36:32.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_5
+[11Jan2025 05:36:32.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_0
+[11Jan2025 05:36:32.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_2
+[11Jan2025 05:36:32.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_3
+[11Jan2025 05:36:32.038] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_1
+[11Jan2025 05:36:32.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_0
+[11Jan2025 05:36:32.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/150258, l='ServerLevel[world]', x=1842.88, y=-2.42, z=-607.96]
+[11Jan2025 05:36:34.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 5.893339912502142,-2.326273111187163,-8.03891399009376
+[11Jan2025 05:36:34.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 6.177281098553749,-2.388522991582974,-8.438598470288753
+[11Jan2025 05:36:34.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 6.454262986518415,-2.446704309487714,-8.83106008833738
+[11Jan2025 05:36:34.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 6.724035379172847,-2.501054716898679,-9.215826930825529
+[11Jan2025 05:36:34.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ZingyMonk719952) moved too quickly! 6.986442948364129,-2.5518013779198583,-9.592520001570051
+[11Jan2025 05:36:41.492] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/151308, l='ServerLevel[world]', x=1871.53, y=35.47, z=-686.70], dimensionLocationPath overworld
+[11Jan2025 05:36:41.492] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/151308, l='ServerLevel[world]', x=1871.53, y=35.47, z=-686.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@24c9c]
+[11Jan2025 05:36:43.873] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/151540, l='ServerLevel[world]', x=1889.42, y=22.33, z=-656.60], dimensionLocationPath overworld
+[11Jan2025 05:36:43.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/151540, l='ServerLevel[world]', x=1889.42, y=22.33, z=-656.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@24c9c, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@24f0c]
+[11Jan2025 05:36:45.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11871ms or 237 ticks behind
+[11Jan2025 05:36:47.027] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1832, y=0, z=-703}
+[11Jan2025 05:36:47.081] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/151308, l='ServerLevel[world]', x=1871.45, y=35.67, z=-686.68]

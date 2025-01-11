@@ -779,12 +779,14 @@
       "minecraft:skeleton": "2024-12-23 21:59:08 +0000",
       "minecraft:magma_cube": "2024-12-25 18:31:23 +0000",
       "minecraft:spider": "2024-12-23 22:03:14 +0000",
+      "minecraft:piglin_brute": "2025-01-11 05:27:34 +0000",
       "minecraft:creeper": "2025-01-04 05:04:33 +0000",
       "minecraft:zombified_piglin": "2024-12-25 18:23:32 +0000",
       "minecraft:witch": "2024-12-25 01:13:56 +0000",
       "minecraft:wither_skeleton": "2024-12-25 18:30:45 +0000",
       "minecraft:husk": "2024-12-23 21:58:31 +0000",
       "minecraft:cave_spider": "2024-12-24 23:14:34 +0000",
+      "minecraft:piglin": "2025-01-11 05:27:39 +0000",
       "minecraft:stray": "2024-12-23 21:57:39 +0000",
       "minecraft:silverfish": "2025-01-03 02:25:25 +0000",
       "minecraft:enderman": "2025-01-09 07:07:00 +0000",
@@ -8852,6 +8854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-11 05:28:30 +0000"
+    },
+    "done": true
+  },
   "psg:verylittlechemist": {
     "criteria": {
       "verylittlechemist_0": "2025-01-11 05:00:17 +0000"
@@ -8861,6 +8869,12 @@
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2025-01-11 05:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-11 05:28:30 +0000"
     },
     "done": true
   },
@@ -8876,9 +8890,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-11 05:28:15 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-01-11 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-11 05:28:30 +0000"
     },
     "done": true
   },
