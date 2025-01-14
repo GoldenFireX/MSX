@@ -1729,3 +1729,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jan2025 09:42:14.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
 [14Jan2025 09:42:19.033] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/utility/TreeCutter$SearchDirection
 [14Jan2025 09:43:21.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10078, l='ServerLevel[world]', x=924.88, y=-256.00, z=1650.16] died, message: 'Unemployed was killed'
+[14Jan2025 10:03:54.242] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20338, l='ServerLevel[world]', x=922.50, y=97.00, z=1641.50] died, message: 'Unemployed was killed'
