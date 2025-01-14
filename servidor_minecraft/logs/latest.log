@@ -1655,3 +1655,201 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jan2025 08:26:52.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/RelativeMovement
 [14Jan2025 08:26:52.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting glitchcore/event/TickEvent$Phase
 [14Jan2025 08:26:53.684] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/LevelChunk$EntityCreationType
+[14Jan2025 08:36:57.217] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[14Jan2025 08:36:57.341] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[14Jan2025 08:37:00.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/100.114.191.123:60948] logged in with entity id 2322 at (3820.0948976804825, 75.92571360588404, -3625.523401248929)
+[14Jan2025 08:37:00.555] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[14Jan2025 08:37:00.574] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[14Jan2025 08:37:00.578] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[14Jan2025 08:37:00.581] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[14Jan2025 08:37:00.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[14Jan2025 08:37:00.597] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[14Jan2025 08:37:00.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[14Jan2025 08:37:00.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[14Jan2025 08:37:00.641] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[14Jan2025 08:37:00.696] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamresourceful/yabn/elements/YabnType
+[14Jan2025 08:37:00.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting nl/enjarai/doabarrelroll/net/HandshakeServer$HandshakeState
+[14Jan2025 08:37:00.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[14Jan2025 08:37:00.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilityHandler
+[14Jan2025 08:37:00.882] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[14Jan2025 08:37:00.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[14Jan2025 08:37:00.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Action
+[14Jan2025 08:37:01.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/CMessageTBCapability$SyncType
+[14Jan2025 08:37:01.189] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[14Jan2025 08:37:01.198] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/signal/EdgeGroupColor
+[14Jan2025 08:37:01.378] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[14Jan2025 08:37:01.535] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[14Jan2025 08:37:01.608] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ClientRequestSettingsPacket$Event
+[14Jan2025 08:37:01.614] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[14Jan2025 08:37:03.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting be/florens/expandability/EventResult
+[14Jan2025 08:37:03.173] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ConfirmedSetting$Event
+[14Jan2025 08:37:03.176] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/network/data/Side
+[14Jan2025 08:37:03.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2905ms or 58 ticks behind
+[14Jan2025 08:37:03.330] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[14Jan2025 08:37:06.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/capability/ServantEntityImpl$CasterType
+[14Jan2025 08:37:07.137] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/event/bus/ZResult
+[14Jan2025 08:37:08.964] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[14Jan2025 08:37:09.179] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3790, y=-39, z=-3686}
+[14Jan2025 08:37:10.273] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[14Jan2025 08:37:17.522] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[14Jan2025 08:37:17.529] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[14Jan2025 08:37:17.530] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[14Jan2025 08:37:17.531] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[14Jan2025 08:37:19.671] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[14Jan2025 08:37:20.405] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
+[14Jan2025 08:37:20.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[14Jan2025 08:37:23.976] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[14Jan2025 08:37:25.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[14Jan2025 08:37:30.832] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[14Jan2025 08:37:51.167] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3922, y=-30, z=-3561}
+[14Jan2025 08:38:00.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24716ms or 494 ticks behind
+[14Jan2025 08:38:04.716] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[14Jan2025 08:38:06.759] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3879, y=-46, z=-3503}
+[14Jan2025 08:38:07.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3812, y=20, z=-3499}
+[14Jan2025 08:38:09.092] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[14Jan2025 08:38:09.093] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[14Jan2025 08:38:09.110] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[14Jan2025 08:38:30.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15049ms or 300 ticks behind
+[14Jan2025 08:38:50.717] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[14Jan2025 08:38:55.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10613ms or 212 ticks behind
+[14Jan2025 08:38:56.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3904, y=16, z=-3473}
+[14Jan2025 08:38:56.237] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3933, y=-37, z=-3471}
+[14Jan2025 08:39:00.053] [Worker-Main-27/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[14Jan2025 08:39:00.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3972, y=-38, z=-3766}
+[14Jan2025 08:39:11.985] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[14Jan2025 08:39:17.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7074ms or 141 ticks behind
+[14Jan2025 08:39:22.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -5.678232293334531,0.0,9.288531572770353
+[14Jan2025 08:39:37.702] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=3516, y=-40, z=-3067}
+[14Jan2025 08:39:49.975] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3342, y=-38, z=-2892}
+[14Jan2025 08:39:51.666] [Worker-Main-26/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[14Jan2025 08:39:51.832] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-53, z=1724}
+[14Jan2025 08:39:52.056] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3993, y=-53, z=-3535}
+[14Jan2025 08:39:52.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[14Jan2025 08:39:54.807] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3262, y=6, z=-2771}
+[14Jan2025 08:40:00.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -6.779983516713401,0.0,8.520171627249056
+[14Jan2025 08:40:09.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14Jan2025 08:40:18.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -5.300958883871772,0.0,9.50218262197859
+[14Jan2025 08:40:19.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -5.073884428666133,0.0,8.804463379275148
+[14Jan2025 08:40:23.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -5.428883474977738,0.0,9.42047585391174
+[14Jan2025 08:40:29.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5466ms or 109 ticks behind
+[14Jan2025 08:40:49.545] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=27, z=-1223}
+[14Jan2025 08:40:49.741] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[14Jan2025 08:40:49.742] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[14Jan2025 08:40:51.399] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[14Jan2025 08:40:51.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.737428396917494,0.0,9.803299610684007
+[14Jan2025 08:40:51.943] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
+[14Jan2025 08:40:52.186] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2419, y=176, z=-1837}
+[14Jan2025 08:40:54.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9413ms or 188 ticks behind
+[14Jan2025 08:40:54.353] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=26, z=-1251}
+[14Jan2025 08:40:54.354] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-1251}
+[14Jan2025 08:40:54.355] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=26, z=-1245}
+[14Jan2025 08:40:54.357] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=26, z=-1243}
+[14Jan2025 08:40:54.358] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-1243}
+[14Jan2025 08:40:54.363] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-1245}
+[14Jan2025 08:40:54.366] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-1247}
+[14Jan2025 08:40:54.467] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
+[14Jan2025 08:40:54.467] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
+[14Jan2025 08:40:54.468] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
+[14Jan2025 08:40:55.019] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2406, y=-53, z=-1767}
+[14Jan2025 08:41:15.584] [Worker-Main-25/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[14Jan2025 08:41:20.577] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=3288, y=68, z=-2810}
+[14Jan2025 08:41:26.550] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2350, y=-23, z=-1167}
+[14Jan2025 08:41:34.889] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2318, y=-40, z=-954}
+[14Jan2025 08:41:40.556] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2321, y=-41, z=-1614}
+[14Jan2025 08:41:56.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -5.036983163906825,0.0,9.653848190181407
+[14Jan2025 08:41:56.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
+[14Jan2025 08:42:03.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -5.036894792714293,0.0,9.653678818546382
+[14Jan2025 08:42:06.013] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1891, y=-46, z=-501}
+[14Jan2025 08:42:07.696] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1845, y=25, z=-461}
+[14Jan2025 08:42:09.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -5.036209845401572,0.0,9.652366053115088
+[14Jan2025 08:42:11.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.741629344396415,0.0,9.087775038225857
+[14Jan2025 08:42:11.853] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1843, y=25, z=-461}
+[14Jan2025 08:42:13.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1848, y=-33, z=-448}
+[14Jan2025 08:42:14.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.932702124529442,0.0,9.453983848668713
+[14Jan2025 08:42:14.534] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1851, y=-25, z=-407}
+[14Jan2025 08:42:16.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.662602235382565,0.0,8.93631221047724
+[14Jan2025 08:42:18.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.813544015671596,0.0,9.225606215449375
+[14Jan2025 08:42:20.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.813544015671596,0.0,9.225606215449375
+[14Jan2025 08:42:22.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.4189594878530443,0.0,10.179540321323202
+[14Jan2025 08:42:24.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.6239940882919655,0.0,9.88479269830276
+[14Jan2025 08:42:24.686] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1765, y=-41, z=-357}
+[14Jan2025 08:42:24.686] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1765, y=-41, z=-356}
+[14Jan2025 08:42:25.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.911688922851681,0.0,9.41371008709774
+[14Jan2025 08:42:28.601] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1785, y=-33, z=-357}
+[14Jan2025 08:42:28.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -10.116910700683775,0.0,3.495802571185493
+[14Jan2025 08:42:28.989] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1751, y=-30, z=-374}
+[14Jan2025 08:42:31.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -9.812126973767363,0.0,3.083642087140788
+[14Jan2025 08:42:33.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -9.812126973767363,0.0,3.083642087140788
+[14Jan2025 08:42:35.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.681624352755307,0.0,8.972769873207312
+[14Jan2025 08:42:37.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.927461435800524,0.0,9.101274723503963
+[14Jan2025 08:42:39.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.7691950460753105,0.0,9.140607277406474
+[14Jan2025 08:42:39.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2572ms or 51 ticks behind
+[14Jan2025 08:42:42.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.662602235382565,0.0,8.936312210477354
+[14Jan2025 08:42:42.655] [Worker-Main-27/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[14Jan2025 08:42:51.077] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1712, y=27, z=-162}
+[14Jan2025 08:42:52.175] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1682, y=21, z=-163}
+[14Jan2025 08:43:07.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.9826380618571875,-3.3748430458755934,8.952473957717643
+[14Jan2025 08:43:08.798] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1606, y=-17, z=-123}
+[14Jan2025 08:43:10.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.8176178853807414,-3.749842421095252,8.592387846402005
+[14Jan2025 08:43:10.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[14Jan2025 08:43:12.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.8920536519829056,-3.7499055122617904,8.705688783251894
+[14Jan2025 08:43:14.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! 1.777924392644536,-4.124736644370671,9.726522849387585
+[14Jan2025 08:43:15.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -8.109648001202459,-3.7499797074736705,4.875554721540057
+[14Jan2025 08:43:18.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.832308175841263,-3.7499927900579735,8.462895293541049
+[14Jan2025 08:43:20.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.807878095469732,-5.128595416251471,8.334629502294922
+[14Jan2025 08:43:22.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.6764568868004517,-5.437658903505451,8.04697662698261
+[14Jan2025 08:43:24.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.9605823430665623,-3.7499055122617904,8.674723808290782
+[14Jan2025 08:43:27.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -7.813119947006726,-0.06708495076819077,6.62745543167469
+[14Jan2025 08:43:27.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[14Jan2025 08:43:32.659] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1594, y=-17, z=80}
+[14Jan2025 08:43:32.660] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1596, y=-17, z=80}
+[14Jan2025 08:43:37.419] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1486, y=-20, z=111}
+[14Jan2025 08:43:39.926] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1486, y=-20, z=111}
+[14Jan2025 08:43:44.523] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1718, y=29, z=-333}
+[14Jan2025 08:43:48.235] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1493, y=-5, z=164}
+[14Jan2025 08:43:48.237] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1492, y=-5, z=164}
+[14Jan2025 08:43:54.978] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1555, y=36, z=189}
+[14Jan2025 08:43:57.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.312711387802665,0.0,9.94062068794068
+[14Jan2025 08:44:00.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.8763986801141073,0.0,9.878091688672214
+[14Jan2025 08:44:01.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.972511773829865,0.0,10.126333985817098
+[14Jan2025 08:44:04.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.985448699773542,0.0,9.44125795991539
+[14Jan2025 08:44:07.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.8667364735190404,0.0,9.85120989018435
+[14Jan2025 08:44:11.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.1230026040475423,0.0,9.902954624351764
+[14Jan2025 08:44:11.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[14Jan2025 08:44:14.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.8395959337656222,0.0,9.869147148473871
+[14Jan2025 08:44:15.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.6546168529723673,0.0,9.39368415725653
+[14Jan2025 08:44:17.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.7165594742518806,0.0,9.552899047238498
+[14Jan2025 08:44:20.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.7165594742518806,0.0,9.552899047238498
+[14Jan2025 08:44:22.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -5.348433840133794,0.0,8.586319728051365
+[14Jan2025 08:44:23.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.824220198620651,0.0,9.061465901101144
+[14Jan2025 08:44:25.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.7725640776695855,0.0,9.501828590772277
+[14Jan2025 08:44:28.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -4.351257658325721,-3.750000139400356,9.521258813233146
+[14Jan2025 08:44:32.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.67025094914743,-3.375000134110337,8.989662199229883
+[14Jan2025 08:44:33.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.586548040341313,-4.118243484295988,9.21872274473617
+[14Jan2025 08:44:33.883] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1277, y=26, z=557}
+[14Jan2025 08:44:33.935] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1280, y=-38, z=558}
+[14Jan2025 08:44:35.677] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1320, y=-38, z=607}
+[14Jan2025 08:44:36.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.8395959337656222,0.0,9.869147148473871
+[14Jan2025 08:44:38.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.742199765500118,0.0,9.618803848582502
+[14Jan2025 08:44:38.396] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1277, y=26, z=557}
+[14Jan2025 08:44:40.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.6117072790750626,-3.7479717550257305,9.283391067520938
+[14Jan2025 08:44:40.711] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1217, y=-39, z=587}
+[14Jan2025 08:44:40.712] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1215, y=-39, z=587}
+[14Jan2025 08:44:40.712] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1221, y=-43, z=651}
+[14Jan2025 08:44:44.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.534646070758299,-3.3750001341077365,9.085315952993483
+[14Jan2025 08:44:46.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.8395959337656222,0.0,9.869147148473871
+[14Jan2025 08:44:46.619] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1221, y=-43, z=652}
+[14Jan2025 08:44:48.736] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EndCrystal['End Crystal'/13331, l='ServerLevel[world]', x=1223.50, y=-10.00, z=795.50]
+[14Jan2025 08:44:48.771] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1260, y=-22, z=781}
+[14Jan2025 08:44:49.078] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EndCrystal['End Crystal'/13379, l='ServerLevel[world]', x=1210.50, y=-9.00, z=795.50]
+[14Jan2025 08:44:51.656] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EndCrystal['End Crystal'/13564, l='ServerLevel[world]', x=1197.50, y=-10.00, z=795.50]
+[14Jan2025 08:44:53.601] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1427, y=-1, z=456}
+[14Jan2025 08:44:58.346] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1328, y=33, z=872}
+[14Jan2025 08:45:00.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -3.9641426216833224,0.0,10.13328069633792
+[14Jan2025 08:45:01.476] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[14Jan2025 08:45:06.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[14Jan2025 08:45:06.874] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_attack_speed'
+[14Jan2025 08:45:06.875] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[14Jan2025 08:45:06.875] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[14Jan2025 08:45:06.876] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[14Jan2025 08:45:10.137] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
