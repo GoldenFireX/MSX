@@ -1722,3 +1722,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jan2025 09:27:05.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
 [14Jan2025 09:27:33.241] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4117, l='ServerLevel[world]', x=909.37, y=-256.00, z=1643.49] died, message: 'Unemployed was killed'
 [14Jan2025 09:28:30.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[14Jan2025 09:32:51.745] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[14Jan2025 09:37:27.646] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[14Jan2025 09:37:27.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[14Jan2025 09:42:14.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[14Jan2025 09:42:14.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[14Jan2025 09:42:19.033] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/utility/TreeCutter$SearchDirection
+[14Jan2025 09:43:21.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10078, l='ServerLevel[world]', x=924.88, y=-256.00, z=1650.16] died, message: 'Unemployed was killed'
