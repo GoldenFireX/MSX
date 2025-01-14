@@ -1887,3 +1887,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jan2025 08:46:32.468] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [14Jan2025 08:46:49.230] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [14Jan2025 08:53:42.050] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[14Jan2025 08:57:52.932] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20607, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[14Jan2025 08:59:31.977] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21342, l='ServerLevel[world]', x=911.08, y=-256.00, z=1645.13] died, message: 'Unemployed was killed'
+[14Jan2025 09:02:58.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22439, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
