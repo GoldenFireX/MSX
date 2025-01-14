@@ -595,19 +595,23 @@
       "overgrown_greens": "2024-12-27 07:25:02 +0000",
       "coniferous_forest": "2024-12-23 21:38:09 +0000",
       "hot_springs": "2025-01-10 04:59:32 +0000",
+      "aspen_glade": "2025-01-14 08:20:28 +0000",
       "dune_beach": "2024-12-30 01:13:52 +0000",
       "seasonal_forest": "2024-12-23 22:02:15 +0000",
+      "auroral_garden": "2025-01-11 05:32:27 +0000",
       "pasture": "2024-12-30 01:17:45 +0000",
       "lavender_field": "2024-12-30 01:17:33 +0000",
       "fir_clearing": "2024-12-23 22:06:06 +0000",
       "pumpkin_patch": "2024-12-25 02:59:40 +0000",
       "grassland": "2024-12-23 22:48:15 +0000",
+      "prairie": "2025-01-14 08:21:34 +0000",
       "snowy_fir_clearing": "2024-12-23 22:06:43 +0000",
       "snowy_coniferous_forest": "2025-01-10 04:30:09 +0000",
       "gravel_beach": "2024-12-23 22:07:09 +0000",
       "glowing_grotto": "2024-12-26 21:53:15 +0000",
       "rainforest": "2024-12-27 07:24:53 +0000",
-      "crag": "2024-12-27 07:29:17 +0000"
+      "crag": "2024-12-27 07:29:17 +0000",
+      "snowy_maple_woods": "2025-01-11 05:32:22 +0000"
     },
     "done": false
   },
@@ -7464,7 +7468,8 @@
       "guts": "2024-12-31 07:12:50 +0000",
       "darkin_blade": "2025-01-08 08:36:55 +0000",
       "bluemoon_short": "2024-12-30 00:27:13 +0000",
-      "bloodthirster": "2025-01-10 03:59:08 +0000"
+      "bloodthirster": "2025-01-10 03:59:08 +0000",
+      "draugr": "2025-01-11 05:55:19 +0000"
     },
     "done": false
   },
@@ -10908,15 +10913,220 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-01-11 05:03:29 +0000"
+    },
+    "done": true
+  },
   "call_of_yucutan:obtain_both_weapons": {
     "criteria": {
       "obtain_both_weapons_0": "2025-01-11 05:16:44 +0000"
     },
     "done": false
   },
-  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+  "dungeons_arise:find_illager_campsite": {
     "criteria": {
-      "has_bread": "2025-01-11 05:03:29 +0000"
+      "location0": "2025-01-11 05:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-01-11 05:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-01-11 05:44:44 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_flag": {
+    "criteria": {
+      "has_purple_flag": "2025-01-11 05:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-01-11 05:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-11 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:draugr_boss": {
+    "criteria": {
+      "soulsweapons:draugr_boss": "2025-01-11 05:51:43 +0000",
+      "soulsweapons:night_shade": "2025-01-11 05:55:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkmoon_longbow": {
+    "criteria": {
+      "has_item": "2025-01-11 05:55:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draugr": {
+    "criteria": {
+      "has_item": "2025-01-11 05:55:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-11 06:03:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-14 08:23:40 +0000"
+    },
+    "done": false
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-01-14 08:22:44 +0000"
     },
     "done": true
   },
