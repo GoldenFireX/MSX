@@ -1819,3 +1819,20 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Jan2025 04:29:47.025] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [15Jan2025 04:29:48.364] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [15Jan2025 04:29:48.739] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[15Jan2025 04:32:28.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/100.114.191.123:60618] logged in with entity id 22075 at (881.8087221170709, 67.0, 1661.8968310431167)
+[15Jan2025 04:32:28.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[15Jan2025 04:32:28.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[15Jan2025 04:32:28.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[15Jan2025 04:32:28.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[15Jan2025 04:32:28.044] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[15Jan2025 04:32:28.050] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[15Jan2025 04:32:28.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[15Jan2025 04:32:28.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[15Jan2025 04:32:28.213] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[15Jan2025 04:32:31.998] [Server thread/INFO] [do_a_barrel_roll/]: Client of ZingyMonk719952 accepted server config.
+[15Jan2025 04:36:32.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -10.012441704763546,0.0,-1.2980532813367063
+[15Jan2025 04:37:27.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[15Jan2025 04:37:27.723] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[15Jan2025 04:37:32.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25581, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[15Jan2025 04:40:15.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29121, l='ServerLevel[world]', x=922.50, y=97.56, z=1643.50] died, message: 'Unemployed was killed'
+[15Jan2025 04:41:31.029] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
