@@ -1813,3 +1813,9 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Jan2025 04:09:57.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! 9.81758137630527,-0.4641593749554431,1.96419499291369
 [15Jan2025 04:11:36.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Timed out
 [15Jan2025 04:11:36.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[15Jan2025 04:23:41.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cyclops/cyclopscore/algorithm/Dimension
+[15Jan2025 04:29:46.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Siamese Skeletons
+[15Jan2025 04:29:46.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[15Jan2025 04:29:47.025] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[15Jan2025 04:29:48.364] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[15Jan2025 04:29:48.739] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
