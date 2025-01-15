@@ -1876,3 +1876,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Jan2025 05:50:53.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
 [15Jan2025 05:51:57.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Bony King]
 [15Jan2025 05:52:24.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -10.20531487265987,-0.5061351021062137,0.8259883962757613
+[15Jan2025 05:56:23.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/138624, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
