@@ -5168,6 +5168,7 @@
     "criteria": {
       "crucible_sword": "2025-01-10 05:14:09 +0000",
       "darkin_scythe_pre": "2025-01-11 05:03:10 +0000",
+      "darkin_blade": "2025-01-15 04:52:54 +0000",
       "bluemoon_short": "2024-12-29 06:12:02 +0000",
       "bloodthirster": "2025-01-10 03:59:50 +0000",
       "draugr": "2025-01-11 05:51:46 +0000",
@@ -11264,6 +11265,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2025-01-11 05:55:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:gatling_gun": {
+    "criteria": {
+      "weapon": "2025-01-15 04:55:53 +0000"
     },
     "done": true
   },

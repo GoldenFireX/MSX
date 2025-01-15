@@ -11058,5 +11058,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2025-01-15 04:49:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-01-15 04:49:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

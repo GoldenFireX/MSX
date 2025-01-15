@@ -1842,3 +1842,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Jan2025 04:49:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Magic Disenchantment]
 [15Jan2025 04:49:47.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Soul Magic]
 [15Jan2025 04:51:53.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! 9.436248017843127,5.088749986886981,0.1960033564632795
+[15Jan2025 04:52:17.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! 3.481938704710956,0.0,-9.471248135703945
+[15Jan2025 04:55:53.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Bullets for Dinner]
+[15Jan2025 04:56:57.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/40847, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[15Jan2025 04:57:27.686] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
