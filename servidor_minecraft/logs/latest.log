@@ -1882,3 +1882,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Jan2025 06:06:32.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
 [15Jan2025 06:08:48.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/148485, l='ServerLevel[world]', x=922.50, y=97.56, z=1643.50] died, message: 'Unemployed was killed'
 [15Jan2025 06:13:27.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/154014, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[15Jan2025 06:14:06.904] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/154061, l='ServerLevel[world]', x=929.53, y=-256.00, z=1648.55] died, message: 'Unemployed was killed'
+[15Jan2025 06:14:15.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/157840, l='ServerLevel[world]', x=914.34, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
+[15Jan2025 06:15:34.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/158202, l='ServerLevel[world]', x=924.58, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
