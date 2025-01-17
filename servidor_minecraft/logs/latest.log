@@ -1736,3 +1736,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 23:29:00.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3941ms or 78 ticks behind
 [17Jan2025 23:29:49.513] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
 [17Jan2025 23:30:02.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[17Jan2025 23:51:50.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[17Jan2025 23:51:50.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
