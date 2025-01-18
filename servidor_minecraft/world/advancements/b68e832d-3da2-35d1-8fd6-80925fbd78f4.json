@@ -11334,5 +11334,11 @@
     },
     "done": true
   },
+  "creategoggles:recipes/goggle_golden_helmet": {
+    "criteria": {
+      "has_helmet": "2025-01-18 01:01:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
