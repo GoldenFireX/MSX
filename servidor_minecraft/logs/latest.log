@@ -30,3 +30,4 @@
 [18Jan2025 00:27:40.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Nightmare Stalker
 [18Jan2025 00:27:40.555] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [18Jan2025 00:27:41.968] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[18Jan2025 00:54:48.807] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting immersive_aircraft/network/c2s/CommandMessage$Key
