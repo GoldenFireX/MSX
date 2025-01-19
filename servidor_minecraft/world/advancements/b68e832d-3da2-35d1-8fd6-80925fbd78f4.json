@@ -11523,5 +11523,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 04:43:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
