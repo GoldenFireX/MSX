@@ -1773,3 +1773,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jan2025 05:08:13.238] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
 [19Jan2025 05:09:27.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Rocket Science]
 [19Jan2025 05:12:13.894] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28252, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[19Jan2025 05:13:08.240] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28931, l='ServerLevel[world]', x=915.68, y=-256.00, z=1641.44] died, message: 'Unemployed was killed'
+[19Jan2025 05:14:17.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30350, l='ServerLevel[world]', x=924.59, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
+[19Jan2025 05:17:36.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Baby's First Rocket]
+[19Jan2025 05:17:38.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/32986, l='ServerLevel[world]', x=923.42, y=-256.00, z=1651.00] died, message: 'Unemployed was killed'
+[19Jan2025 05:19:50.865] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/automation/block/be/FeedingTroughBlockEntity$FeedResult
+[19Jan2025 05:20:30.241] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/34956, l='ServerLevel[world]', x=909.52, y=-256.00, z=1644.11] died, message: 'Unemployed was killed'
