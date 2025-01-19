@@ -11388,6 +11388,18 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_blocks": {
+    "criteria": {
+      "has_item": "2025-01-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_ingot_from_steel_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-19 05:01:08 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/zip_gun": {
     "criteria": {
       "has_zip_gun": "2025-01-19 04:56:10 +0000"
