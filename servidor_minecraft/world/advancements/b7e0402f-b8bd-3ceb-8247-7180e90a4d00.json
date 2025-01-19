@@ -11388,11 +11388,23 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "ad_astra:recipes/alloying/alloying/steel_ingot_from_alloying_iron_ingot_and_coals": {
     "criteria": {
-      "requirement": "2025-01-19 04:28:42 +0000"
+      "has_item": "2025-01-19 04:31:27 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-19 04:34:09 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:smart_blasting": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-01-19 04:31:27 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

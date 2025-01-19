@@ -1746,3 +1746,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jan2025 04:27:47.914] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [19Jan2025 04:30:13.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [19Jan2025 04:31:11.772] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[19Jan2025 04:31:27.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Smart Blasting]
+[19Jan2025 04:32:00.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by ZingyMonk719952
+[19Jan2025 04:32:00.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[19Jan2025 04:32:00.598] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[19Jan2025 04:32:02.020] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[19Jan2025 04:32:04.056] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[19Jan2025 04:32:04.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[19Jan2025 04:32:04.073] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[19Jan2025 04:32:05.641] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[19Jan2025 04:32:06.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[19Jan2025 04:32:12.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[19Jan2025 04:32:32.119] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/sideconfig/ConfigurationType
+[19Jan2025 04:32:32.189] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/EnergyContainerMachineBlockEntity$ChargeSlotType
+[19Jan2025 04:33:28.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8849, l='ServerLevel[world]', x=924.36, y=-256.00, z=1651.03] died, message: 'Unemployed was killed'
+[19Jan2025 04:34:22.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[19Jan2025 04:35:35.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Great minds think alike]
+[19Jan2025 04:36:26.684] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10055, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'

@@ -16509,3 +16509,75 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jan2025 04:31:11.764] [Server thread/DEBUG] [mixin/]: Mixing PressingBehaviourMixin from sliceanddice.mixins.json into com.simibubi.create.content.kinetics.press.PressingBehaviour
 [19Jan2025 04:31:11.764] [Server thread/DEBUG] [mixin/]: sliceanddice.mixins.json:PressingBehaviourMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [19Jan2025 04:31:11.772] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[19Jan2025 04:31:27.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Smart Blasting]
+[19Jan2025 04:32:00.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by ZingyMonk719952
+[19Jan2025 04:32:00.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[19Jan2025 04:32:00.506] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:837, y:64, z:1639, dim:minecraft:overworld]
+[19Jan2025 04:32:00.598] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[19Jan2025 04:32:01.872] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[19Jan2025 04:32:02.020] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[19Jan2025 04:32:02.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:jungle_tower/base
+[19Jan2025 04:32:02.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:jungle_tower/bottom
+[19Jan2025 04:32:02.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:jungle_tower/top
+[19Jan2025 04:32:02.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[19Jan2025 04:32:02.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_02
+[19Jan2025 04:32:02.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/unemployed
+[19Jan2025 04:32:02.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_03
+[19Jan2025 04:32:02.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_04
+[19Jan2025 04:32:02.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[19Jan2025 04:32:02.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_06
+[19Jan2025 04:32:02.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_toolsmith_1
+[19Jan2025 04:32:02.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_05
+[19Jan2025 04:32:02.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_03
+[19Jan2025 04:32:02.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_fletcher_1
+[19Jan2025 04:32:02.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_01
+[19Jan2025 04:32:02.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_04
+[19Jan2025 04:32:02.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_01
+[19Jan2025 04:32:02.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_2
+[19Jan2025 04:32:02.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_3
+[19Jan2025 04:32:02.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_02
+[19Jan2025 04:32:02.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/baby
+[19Jan2025 04:32:02.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/turn_01
+[19Jan2025 04:32:02.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_2
+[19Jan2025 04:32:02.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_02
+[19Jan2025 04:32:02.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_large_house_1
+[19Jan2025 04:32:02.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_lamp_1
+[19Jan2025 04:32:02.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/jungle_decor_1
+[19Jan2025 04:32:02.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_butcher_1
+[19Jan2025 04:32:02.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_03
+[19Jan2025 04:32:02.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_mason_1
+[19Jan2025 04:32:02.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_armorer_1
+[19Jan2025 04:32:02.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/nitwit
+[19Jan2025 04:32:02.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_4
+[19Jan2025 04:32:02.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/crossroad_02
+[19Jan2025 04:32:02.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_05
+[19Jan2025 04:32:02.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/houses/jungle_small_house_1
+[19Jan2025 04:32:02.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/straight_06
+[19Jan2025 04:32:02.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/streets/corner_01
+[19Jan2025 04:32:02.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_03
+[19Jan2025 04:32:02.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/terminators/terminator_04
+[19Jan2025 04:32:03.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[19Jan2025 04:32:04.056] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[19Jan2025 04:32:04.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[19Jan2025 04:32:04.073] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[19Jan2025 04:32:04.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[19Jan2025 04:32:05.641] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[19Jan2025 04:32:06.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stall/blue_stall
+[19Jan2025 04:32:06.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[19Jan2025 04:32:12.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[19Jan2025 04:32:32.119] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/sideconfig/ConfigurationType
+[19Jan2025 04:32:32.189] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/EnergyContainerMachineBlockEntity$ChargeSlotType
+[19Jan2025 04:33:28.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8849, l='ServerLevel[world]', x=924.36, y=-256.00, z=1651.03] died, message: 'Unemployed was killed'
+[19Jan2025 04:33:44.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 04:33:44.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 04:33:45.070] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9147, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[19Jan2025 04:33:45.070] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9147, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[19Jan2025 04:33:45.174] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9147, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[19Jan2025 04:34:22.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[19Jan2025 04:35:35.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Great minds think alike]
+[19Jan2025 04:36:26.684] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10055, l='ServerLevel[world]', x=923.77, y=-256.00, z=1651.01] died, message: 'Unemployed was killed'
+[19Jan2025 04:38:44.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 04:38:44.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 04:38:45.148] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/10760, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[19Jan2025 04:38:45.149] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/10760, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[19Jan2025 04:38:45.282] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/10760, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
