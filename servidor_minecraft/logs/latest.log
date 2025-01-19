@@ -1767,3 +1767,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jan2025 04:43:40.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Disenchanter]
 [19Jan2025 04:43:43.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Carbon Footprint]
 [19Jan2025 04:49:45.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Mastery 1]
+[19Jan2025 04:54:14.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Stolen Magic]
+[19Jan2025 04:55:56.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Double Trouble]
+[19Jan2025 04:57:04.162] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
