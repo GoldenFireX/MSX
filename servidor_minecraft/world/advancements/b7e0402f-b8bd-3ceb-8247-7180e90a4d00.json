@@ -11724,6 +11724,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-21 08:49:33 +0000"
+    },
+    "done": true
+  },
   "create:steam_engine_maxed": {
     "criteria": {
       "0": "2025-01-21 08:04:45 +0000"
