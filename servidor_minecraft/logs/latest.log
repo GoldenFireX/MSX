@@ -1764,3 +1764,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 08:00:56.810] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [21Jan2025 08:01:39.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24506, l='ServerLevel[world]', x=927.11, y=-256.00, z=1646.12] died, message: 'Unemployed was killed'
 [21Jan2025 08:04:45.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Full Steam]
+[21Jan2025 08:18:50.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Limit Breaker]
+[21Jan2025 08:20:29.025] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
