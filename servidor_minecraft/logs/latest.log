@@ -1752,3 +1752,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 07:27:03.769] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
 [21Jan2025 07:29:27.020] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/fluid/FluidHelper$FluidExchange
 [21Jan2025 07:31:20.437] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[21Jan2025 07:33:11.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[21Jan2025 07:33:11.087] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[21Jan2025 07:33:41.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11384, l='ServerLevel[world]', x=923.50, y=97.00, z=1644.50] died, message: 'Unemployed was killed'
+[21Jan2025 07:36:54.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13570, l='ServerLevel[world]', x=924.16, y=-256.00, z=1651.05] died, message: 'Unemployed was killed'
