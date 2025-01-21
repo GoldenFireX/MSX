@@ -1767,3 +1767,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 08:18:50.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Limit Breaker]
 [21Jan2025 08:20:29.025] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [21Jan2025 08:24:35.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -0.18827131976968303,4.499999718565533,-9.017929010071839
+[21Jan2025 08:35:28.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[21Jan2025 08:36:42.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48581, l='ServerLevel[world]', x=924.36, y=-256.00, z=1651.03] died, message: 'Unemployed was killed'
+[21Jan2025 08:37:20.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set ZingyMonk719952's game mode to Survival Mode
+[21Jan2025 08:40:27.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set ZingyMonk719952's game mode to Creative Mode
+[21Jan2025 08:42:11.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[21Jan2025 08:42:38.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set ZingyMonk719952's game mode to Survival Mode
